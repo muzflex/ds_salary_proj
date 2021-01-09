@@ -1,4 +1,4 @@
-Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,Hourly,Employer Provided,Salary Hourly,Salary Employer Provided,Min Salary,Max Salary,Avg Salary,Company Text,Job State,Same Location,Company Age,Python Job,R-Studio Job,Spark Job,AWS Job,Excel Job
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,Salary Hourly,Salary Employer Provided,Min Salary,Max Salary,Avg Salary,Company Text,Job State,Same Location,Company Age,Python Job,R-Studio Job,Spark Job,AWS Job,Excel Job
 "Scientist, Clinical Data Manager",$30K - $55K (Glassdoor est.),"Job Number: 29829
 
 Reynolds American Incorporated is positively transforming the tobacco industry. We’re a family of companies that strives for success in everything we do. The future inspires us because our people are igniting the breakthroughs that are redefining the ways adult tobacco consumers enjoy tobacco in the 21st century.
@@ -64,7 +64,7 @@ We are also committed to employing a diverse workforce and valuing different per
 -
 Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
 California Privacy Notice",4.3,"British American Tobacco
-4.3","Winston-Salem, NC",-1,10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,0,0,30,55,42.5,"British American Tobacco
+4.3","Winston-Salem, NC",-1,10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,30,55,42.5,"British American Tobacco
 ", NC,0,119,0,0,0,0,1
 "Sr Scientist, Product Data Management",$53K - $108K (Glassdoor est.),"Job Number: 31636
 
@@ -134,7 +134,7 @@ We are also committed to employing a diverse workforce and valuing different per
 -
 Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
 California Privacy Notice",4.3,"British American Tobacco
-4.3","Winston-Salem, NC",-1,10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,0,0,53,108,80.5,"British American Tobacco
+4.3","Winston-Salem, NC",-1,10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,53,108,80.5,"British American Tobacco
 ", NC,0,119,0,0,0,0,1
 Scientist - R&D ASC,$40K - $65K (Glassdoor est.),"Job Number: 31115
 
@@ -215,5 +215,5 @@ We are also committed to employing a diverse workforce and valuing different per
 -
 Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
 California Privacy Notice",4.3,"British American Tobacco
-4.3","Memphis, TN",-1,10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,0,0,40,65,52.5,"British American Tobacco
+4.3","Memphis, TN",-1,10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,40,65,52.5,"British American Tobacco
 ", TN,0,119,0,0,0,0,1
