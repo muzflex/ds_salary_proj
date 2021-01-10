@@ -1,4 +1,41 @@
-Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,Hourly,Employer Provided,Salary Hourly,Salary Employer Provided,Min Salary,Max Salary,Avg Salary,Company Text,Job State,Same Location,Company Age,Python Job,R-Studio Job,Spark Job,AWS Job,Excel Job
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Size,Founded,Type of ownership,Industry,Sector,Revenue,Salary Hourly,Salary Employer Provided,Company Text,Min Salary,Max Salary,Avg Salary,Job State,Company Age,Python Job,R-Studio Job,Spark Job,AWS Job,Excel Job
+Principal Data Scientist,$104K - $170K (Glassdoor est.),"Working out of our Chevy Chase, MD/Washington DC office, GEICO's Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
+As a Principal Data Scientist, you will work with a talented and diverse team of data scientists with responsibility to:
+Coordinate project teams of data scientists and supporting roles, acting as the primary point of contact in delivering end-to-end innovative, high-quality data solutions with measurable business value
+Build relationships with partner teams, frame and structure questions, as well as summarize and present key insights to both technical and non-technical audiences
+Collaborate with stakeholders to gather, consolidate, and validate business expertise throughout the project lifecycle
+Work with analysts to document requirements, assumptions, and methodology including validation, testing, and implementation strategies
+Coach, mentor, and guide data scientists to advance their career development in both technical and non-technical areas
+Facilitate regular peer reviews and conduct performance reviews
+Assist management with strategic efforts, portfolio management, and value delivery
+Assist management in the recruiting process in order to build a high-functioning Data Science team
+Apply project/team leadership and problem-solving skills to establish and promote best practices within the team
+Develop a high-level understanding of cutting-edge data science tools and techniques
+Expected Qualifications:
+Advanced degree in a quantitative discipline, such as statistics, data science, computer science, mathematics, engineering, physics, etc. Advanced degree or certification in analytics-related field strongly preferred
+5+ years of experience in a quantitative analyst and/or leadership role with 3+ years leading a team of quantitative analysts. Experience leading an Agile team preferred
+Demonstrated leadership competencies, including teambuilding, creative problem-solving, flexibility, and willingness to challenge the status quo
+Excellent communication, facilitation, and coaching skills in a business context and as it applies to team and project management
+Demonstrated experience in influencing business decisions and driving business value
+Working experience with analytical modeling tools such as R or Python, predictive modeling, machine learning, experimental design, and AB testing strongly preferred
+Completion of an analytical product critique may be required
+Highly Preferred Qualifications:
+Experience in Telematics, Internet of Things - IoT, and/or Sensor Data
+Note: The safety of our associates, both current and future, is GEICO’s highest priority. At this time, most of our associates are working remotely due to the current COVID-19 pandemic. Candidates who are selected for this position will be trained remotely and must be able to work from home in a designated work area. Once GEICO determines it is safe for associates to return to the office, candidates may be required to work in our Chevy Chase, MD office.
+Benefits:
+As a Principal Data Scientist, you’ll enjoy our Total Rewards Program* to help secure your financial future and preserve your health and well-being, including:
+Premier Medical, Dental and Vision Insurance with no waiting period**
+Paid Vacation, Sick and Parental Leave
+401(k) Plan with Profit Sharing
+Tuition Reimbursement
+Paid Training and Licensures
+Benefits may be different by location. Benefit eligibility requirements vary and may include length of service.
+EEO Statement:
+The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
+GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.
+#LI-JW1",3.5,"GEICO
+3.5","Chevy Chase, MD",10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),0,0,"GEICO
+",104,170,137.0, MD,85,1,0,0,0,1
 "Scientist, Clinical Data Manager",$30K - $55K (Glassdoor est.),"Job Number: 29829
 
 Reynolds American Incorporated is positively transforming the tobacco industry. We’re a family of companies that strives for success in everything we do. The future inspires us because our people are igniting the breakthroughs that are redefining the ways adult tobacco consumers enjoy tobacco in the 21st century.
@@ -64,78 +101,55 @@ We are also committed to employing a diverse workforce and valuing different per
 -
 Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
 California Privacy Notice",4.3,"British American Tobacco
-4.3","Winston-Salem, NC",-1,10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,0,0,30,55,42.5,"British American Tobacco
-", NC,0,119,0,0,0,0,1
-"Sr Scientist, Product Data Management",$53K - $108K (Glassdoor est.),"Job Number: 31636
-
-Reynolds American Incorporated is positively transforming the tobacco industry. We’re a family of companies that strives for success in everything we do. The future inspires us because our people are igniting the breakthroughs that are redefining the ways adult tobacco consumers enjoy tobacco in the 21st century.
-
-When other companies talk about growth, they only talk about size. At Reynolds American, we focus on the growth of our people. We take pride in each other’s growth and well-being throughout our careers. We invest in your career and total well-being because we know our companies succeed when our people thrive.
-ABOUT OUR ORGANIZATION:
-Reynolds American Inc. is an indirect, wholly owned subsidiary of British American Tobacco p.l.c., and the U.S. parent company of R. J. Reynolds Tobacco Company; Santa Fe Natural Tobacco Company, Inc.; American Snuff Company, LLC; Modoral Brands, Inc.; R. J. Reynolds Vapor Company; Lorillard Licensing Company, LLC; Reynolds Brands, Inc.; and Vuse Stores LLC. This position is with R.J. Reynolds Tobacco Company (2004).
-Here, you’ll have the opportunity to work on iconic brands and revolutionary products by collaborating with visionary, principled and passionate people every day.
-The Product Data Management Senior Scientist leads and manages the creation of product and packaging specifications, bill of materials, and master data required to develop and commercialize products consistent with RAI’s Growth, Innovation, and Harm Reduction Platforms. The Senior Scientist will lead and manage multiple projects simultaneously while collaborating across many functions including Product Development, Scientific & Regulatory Affairs, Brand Planning, Marketing, Procurement, Supply Chain, Engineering, Manufacturing, Distribution, and Finance to achieve strategic objectives.
-
-Principal responsibilities and duties:
-
-
-Lead project management activities, drive requirements gathering, and ensure data, system and process needs are met to achieve project timelines.
-Create and maintain manufacturing specifications, system configuration, and relevant data in corporate computer systems including purchased materials, semi-finished assemblies, and finished assemblies.
-Manage business process data required for planning, procurement, manufacture, shipment, and sale
-of direct materials, semi-finished and finished products.
-Collaborate cross functionally to translate technical requirements into commercial specifications, recipes, and bill of materials while ensuring data is accurate, complete, and approved.
-Refine and develop internal business processes and systems to ensure manufacturing and regulatory reporting, compliance and validation requirements are achieved in the implementation of new products and maintenance of existing products.
-
-POSITION QUALIFICATIONS
-
-
-Relevant degree in business, supply chain management, mathematics, physics, chemistry, engineering, computer science or other technical discipline and 5 years of relevant experience.
-The candidate should demonstrate:
-Detailed knowledge of manufacturing and business processes associated with the production of consumer goods
-The ability to interpret technical information for the development of material specifications, bills of material, and system design
-Project management leadership skills with the ability to manage resources and multiple projects simultaneously within project time fences
-Ability to remain focused and efficient while adapting to changing priorities
-Detail oriented with strong organizational skills
-Excellent interpersonal, oral and written communication skills
-Proven ability to apply complex problem solving and critical thinking skills
-The ability to work seamlessly in a team environment and independently in areas of expertise
-Highly proficient in the use of computer systems and programs including Microsoft Office (Excel)
-
-Preferred:
-
-
-Detailed working knowledge of SAP and/or Siemens Interspec software
-Experience in a FDA regulated consumer goods manufacturing company
-
-Compensation/Targeted Bonus
-Competitive Annual Salary
-Targeted Annual Bonus
-Relocation assistance available for those who qualify.
-Benefit Summary
-Our company offers very competitive benefit plans, including:
-401(k) plan that offers opportunity to save on pre- and post-tax basis up to 50 percent of eligible compensation. Company matches 100 percent of employee pre-tax/Roth (401k) contributions up to six percent
-Comprehensive health- and welfare-benefits package
-Eleven paid company holidays annually, plus a generous paid vacation plan based on length of service
-Company-paid sick and personal days, funeral leave and jury duty leave; Also Parental leave/Reduced Work Schedule
-Confidential personal financial counseling service
-On-site health clinics and fitness centers
-A matching grants program that enables employees to direct and double their donations to qualifying charitable organizations of their choice
-Health-care advocacy service
-Volunteer service opportunities
-Federal credit union membership through Allegacy Federal Credit Union
-Extensive training opportunities
-Reynolds American Inc. and its affiliated companies is an Equal Opportunity / Affirmative Action Employer.
-
-All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.
-
-Our organization offers a level of challenge, responsibility and creativity for motivated employees that stands apart from the crowd.
-
-We are also committed to employing a diverse workforce and valuing different perspectives, experiences and talents to maximize the company's potential for successfully achieving its business objectives.
--
-Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
-California Privacy Notice",4.3,"British American Tobacco
-4.3","Winston-Salem, NC",-1,10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,0,0,53,108,80.5,"British American Tobacco
-", NC,0,119,0,0,0,0,1
+4.3","Winston-Salem, NC",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,"British American Tobacco
+",30,55,42.5, NC,119,0,0,0,0,1
+Scientist,$51K - $108K (Glassdoor est.),"Classification:
+Salary
+Job Description:
+Are you looking for a new challenge? Passionate about innovation? Want to work for a company that values integrity, teamwork and loyalty?
+At LATICRETE International we are driven to be a top ten construction chemical company that still values family, diversity, collaboration and invention. We’ve been in business for over 60 years, family owned/operated for three generations and are available in 100 countries. In 2017, The Hartford Business Journal named us one of Connecticut’s Top Family Owned Companies!
+We don't just make innovative, industry-leading products. We strive to connect with, engage with and improve the lives of our employees, our customers, our partners, and the global communities in which we operate.
+We are seeking passionate and ambitious employees who want to make a difference not just within our organization, but within their communities and the world. If that sounds like you, then what are you waiting for? Join the family and expand your horizons!
+POSITION SUMMARY
+Carry out product or applied research in the chemical sciences requiring appreciable originality and ingenuity. Works under general supervision with advanced knowledge in a particular field. Undertakes scientific related research and/or development activities. Carries out varied assignments which may involve original research and development or makes a significant contribution to a commercial project. May coordinate the work of chemists and/or technicians. May represent the laboratory in outside discussions and technical forum.
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+Additional duties and responsibilities may be assigned, as necessary.
+Product & Method Development (60%): Apply and maintain knowledge of organic and polymer chemistry to:
+Develop detailed procedures, methods, and implement standards for the preparation and subsequent scale up of new technologies and products.
+Carry out identification, evaluation, and development of new materials and joint development projects with raw material suppliers.
+Identify and develop new global technology platforms for resinous systems, floor coatings, maintenance chemicals, and other related areas as defined through growth and acquisition.
+Product Scale-up & Technical Support (20%):
+Provide technology transfer support to global manufacturing and joint venture sites.
+Work with other technical resources (Scientists, Chemists, and Application Specialists) in the execution and transfer of technologies worldwide.
+Knowledge gathering (20%):
+Be familiar with and participate in the patenting process for various regions (North America, Europe, Asia)
+Responsible for concise documentation, sharing, and teaching of new science and technology to other scientists, technicians, and manufacturing personnel.
+REQUIRED SKILLS & QUALIFICATIONS
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Must be a self starter with ability to work on multiples projects simultaneously.
+Have the ability to lead cross functional teams relating to the development and transfer of products and technology (r&d, production, marketing, procurement etc.).
+Intermediate to Advanced computer skills with knowledge of Microsoft Office (Word, Excel, PowerPoint, and Outlook). Microsoft Project skills a plus,
+Capable of establishing contacts and networks with internal/external customers.
+P roven ability to think and work independently with meticulously documented results.
+Must be well organized, detail oriented and have strong analytical ability.
+Strong verbal, written, and oral communication skills.
+Team Cooperation - maintain positive, cooperative, professional attitude with all LATICRETE employees and all customers.
+Education and Experience:
+Bachelors degree in a science (chemistry strongly preferred) with 10 years industry experience, Masters degree in relevant science with 7 years industry experience or Ph.D. degree in a relevant science (organic, polymer, coatings) and related work experience required.
+Specialized Skills and Experience :
+Proven work exposure to Production/Operations, Product Management, QC, ISO, Analytical, Product Development, Polymer/Adhesive Technology, Finance, Accounting and Marketing departments,
+Demonstrates understanding in organic chemistry, polymer solutions, as well as formulation. Coatings formulation skills are a plus.
+Familiar with common analytical methods used for polymer identification and analysis,
+Uses relevant statistical techniques or methods to plan and execute experiments and to analyze experimental data.
+Ability to effectively present information and respond to questions from employees, senior management, clients, customers and general public.
+Travel Requirement:
+25%
+Must have or be able to obtain a passport and any required visas
+Physical Requirements:
+Bending and reaching to file. Infrequent ability to lift/move up to minimum of 50 pounds.
+Handles, uses, stores, and disposes lab chemicals as outlined in SDS, SOP and other company prescribed, state and federal guidelines.",3.5,"Laticrete International
+3.5","Grand Prairie, TX",201 to 500 Employees,-1,Company - Private,Chemical Manufacturing,Manufacturing,$100 to $500 million (USD),0,0,"Laticrete International
+",51,108,79.5, TX,-1,0,0,0,0,1
 Scientist - R&D ASC,$40K - $65K (Glassdoor est.),"Job Number: 31115
 
 Reynolds American Incorporated is positively transforming the tobacco industry. We’re a family of companies that strives for success in everything we do. The future inspires us because our people are igniting the breakthroughs that are redefining the ways adult tobacco consumers enjoy tobacco in the 21st century.
@@ -215,5 +229,1543 @@ We are also committed to employing a diverse workforce and valuing different per
 -
 Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
 California Privacy Notice",4.3,"British American Tobacco
-4.3","Memphis, TN",-1,10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,0,0,40,65,52.5,"British American Tobacco
-", TN,0,119,0,0,0,0,1
+4.3","Memphis, TN",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,"British American Tobacco
+",40,65,52.5, TN,119,0,0,0,0,1
+Operations Data Analyst,$36K - $62K (Glassdoor est.),"Make your mark. With more than $17.2 billion of assets under management, Plante Moran’s Wealth Management Team serves as a trusted advisor to more than 2,900 high net worth individuals, family business owners, and corporate retirement plans helping them build, manage and preserve their wealth. Our integrated affiliate services include investment consulting, financial planning, trust, insurance consulting, estate planning, business succession, and tax planning.
+
+Your role.
+Your work will include, but not be limited to:
+Setup and closing of portfolios
+Daily manual data entry of financial institution and/or custodian account data
+Daily investment data review and reconciliation
+Develop, maintain and implement policies and procedures for department
+Assist in testing and roll out of system upgrades, system integration and new technology
+The qualifications.
+3+ years business experience in the investment, banking or accounting field preferred
+Detail-oriented leader with strong analytical, problem-solving, and communication (written and verbal) skills
+High school diploma or GED equivalent
+Associates degree in Business, IT, Accounting or Finance is preferred, but not required
+Proficiency in Microsoft Office applications, including Excel.
+Qualified individuals must either reside in or near the Kalamazoo or Grand Rapids, MI area or be willing to relocate to the area for this opportunity. This position may require some local or national travel.
+Our difference.
+We are a nationally recognized public accounting, consulting, and wealth management firm, consistently ranked as one of FORTUNE magazine’s “100 Best Companies to Work For.” At Plante Moran, we live by the Golden Rule, fostering a relatively “jerk-free” culture with the lowest staff turnover rate in the industry. Our supportive network of well-rounded professionals is excited to catapult your growth and help pave your pathway to professional excellence.
+
+Apply now. Make your mark.
+
+This is a non-exempt position, so you may have to work hours that exceed the standard 40-hour work week.
+
+Plante Moran is an Equal Opportunity Employer, committed to a diverse workplace.
+
+Interested applicants must submit their resume for consideration using our applicant tracking system. Due to the high volume of applications received, only candidates selected for interviews will be contacted. Candidates must be legally authorized to work in the United States without sponsorship, with the exception of candidates that are bilingual in Japanese and English. Unsolicited resumes from search firms or employment agencies, or similar, will not be paid a fee and become the property of Plante Moran.
+
+The specific statements above are not intended to be all-inclusive.",4.0,"Plante Moran
+4.0","Kalamazoo, MI",1001 to 5000 Employees,1924,Company - Private,Accounting,Accounting & Legal,$500 million to $1 billion (USD),0,0,"Plante Moran
+",36,62,49.0, MI,97,0,0,0,0,1
+"Scientist III, Quality Control",$35K - $64K (Glassdoor est.),"The Scientist 3 - QC is responsible to perform testing of raw materials, in-process and finished pharmaceutical dosage forms, products on stability, cleaning verification samples following written procedures and applicable SOPs, calculate and report results on applicable specification documents, participate in method transfer activities within departments or between facilities or organizations. This role will also provide feedback on systems and analytical procedures to promote continuous improvement and enhancement of compliance posture.
+
+Essential Functions:
+Perform physical and chemical analysis of raw materials, in-process, and finished pharmaceutical products, including products on stability, according to written methods, material specification, and company policies as identified in standard operating procedures (SOPs). Comply with cGMps, SOPs, and STPs to avoid out-of-specification situation. Assure compliance with state and federal regulations.
+Actively participate in any project work as and when assigned. Perform process validation and cleaning validation/verification testing on various drugs. Assist other scientists with analytical, instrument and software related problems as required.
+Use sonic sifter, laser diffraction, Karl Fischer, UV-Vis spectrophotometer, Infra-red spectrophotometer, HPLC with UV detection as well as with conductivity detection, TLC, pH meter, and dissolution. Calibrate HPLC, Dissolution apparatus equipped with auto-sampler and /or in-line UV, pH meters, analytical balances, and Karl-Fischer titrator.
+Document steps followed during analysis execution, calculate and report results. Actively participate in investigation of laboratory results.
+Review laboratory analysis data for completeness, specification compliance, and compliance with company’s written policies.
+Report any abnormal findings to the Supervisor. As assigned, perform in-depth review of analytical records/reports to assure that calculations and other data are technically correct and compliant to relevant specifications.
+
+Additional Responsibilities:
+Assist the laboratory supervisor with handling non-routine special projects requiring activities such as out-of-specification investigations and out-of-alert limit investigations in the laboratory.
+Ensure that expired chemicals and reference standards are removed from laboratory area.
+Perform calibration of HPLC, GC, and other equipment as assigned by the supervisor.
+Assist with hands-on training of newly hired Technicians or Scientists 1 and 2 levels.
+Qualifications
+
+Education:
+Bachelors Degree (BA/BS) Chemistry or related science discipline - Required
+Master Degree (MS/MA) Chemistry or related science discipline - Preferred
+Experience:
+5 years or more in Bachelors Degree (BA/BS) -Testing of chemicals/pharmaceutical products
+3 years or more in Masters Degree (BA/BS) -Testing of chemicals/pharmaceutical products
+Skills:
+Must be precise and consistent in day to day analysis, easily trainable and ready to learn. - Advanced
+Must be able to work in a team environment and be flexible to easily adapt to changes in assignments. - Advanced
+Must be able to execute compendial procedures involving complexity with no or minimal supervision. - Intermediate
+Must be able to effectively communicate results, problems or issues, verbally as well as in writing. - Intermediate
+Must be able to assume a role of a leader in team environment as and when required. - Intermediate
+Must be computer literate and savvy with MS office applications, software programs related to LIMS. - Intermediate
+Must be willing to work extended hours, including weekends, as and when required. - Intermediate
+Must follow safe practices as identified in appropriate MSDS during working with chemicals, and must follow applicable state and federal regulations. - Advanced
+Must be capable of maintaining clear and concise laboratory records and communicating clearly both within and between departments. - Advanced
+Must be thoroughly familiar with cGMP applicable to laboratories in pharmaceutical settings and with method verification/validation concepts. - Advanced
+Must be able to review laboratory records to ascertain compliance with applicable specifications, methods, and SOPs. - Intermediate
+Specialized Knowledge:
+Must possess in-depth knowledge of analytical chemistry techniques, such as spectrophotometric, dissolution and drug release, chromatographic techniques (standalone or hypenated) and measuring physical parameters (viscosity, particle size or droplet size by laser diffraction, melting point by DSC, water content by TGA, identification by XRPD, and other techniques).
+Must be able to follow compendial (USP/EP/BP/JP) procedures for analysis.
+Must understand and apply cGMP requirements applicable to quality control laboratory.
+Must have ability to apply advanced technical skills to troubleshoot and resolve complex analytical and instrument-related problems effectively and in a timely manner and report actions to the laboratory management in a timely manner.
+Must be able to identify trends in analytical data.
+
+Primary Location: US-NY-Brookhaven
+Work Locations: Brookhaven 50 Horseblock Road Brookhaven 11719
+Job: Quality Control
+Organization: Quality
+Schedule: Regular
+Shift: Standard
+Job Type: Full-time
+1st Shift
+Job Posting: Dec 30, 2020, 10:39:21 AM",3.4,"Amneal Pharmaceuticals
+3.4","Brookhaven, NY",5001 to 10000 Employees,2002,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),0,0,"Amneal Pharmaceuticals
+",35,64,49.5, NY,19,0,0,0,0,0
+"AVP, Data Science for Personal Lines",$88K - $144K (Glassdoor est.),"AVP, Data Science for Personal Lines
+Worcester, MA, USA Req #13437
+Thursday, November 5, 2020
+Our Personal Lines (PL) Actuarial and Data Science department is seeking an AVP, Data Science to join our growing team in our corporate home office located in Worcester, MA.
+
+Position summary:
+Leads a data science team that leverages data and advanced statistical methods to provide insight into operational performance that is applied to implementing solutions and improving business results. Builds consultative relationships with business partners to ensure a shared understanding of initiative goals and effective application and monitoring of solutions. Directs and oversees the prioritization of projects and is well-versed in current and emerging analytical approaches and methodologies. Presents insight and recommendations to senior leadership for decision making and strategic planning. Leads data strategy to develop and maintain internal/external information sources for business analysis on behalf of personal lines. Works to recruit and retain skilled staff and state of the art analytical capabilities, while managing and developing staff in the daily performance of their jobs. Ensures that project/department milestones/goals are met and adhering to approved budgets.
+
+This is a full-time, exempt role.
+
+Responsibilities/Essential Functions:
+Supports personal lines high-level strategy formulation and oversees prioritized strategic and tactical projects to achieve targeted business results. Provides leadership in developing data science projects and executing and implementing their findings. Partners with PL business functions to identify and scope specific tactical initiatives and solve business problems and help them measure performance against targeted results. Lead the PL Data Science Steering Committee and provide regular updates to senior management on team performance and progress against the annual research agenda.
+Supports personal lines high-level strategy formulation and oversees prioritized strategic and tactical data science projects to achieve targeted business results.
+Partners with PL business functions to identify specific data science tactical initiatives and solve business problems and help them execute and measure performance against targeted results.
+Establish strategic vision and implement stewardship and governance practices that ensure data integrity and accuracy and explore opportunities to enhance and/or add to both internal and external data available for analysis.
+Lead the PL Data Science Steering Committee and provide regular updates to senior management on team performance and progress against the annual research agenda.
+
+Additional Responsibilities:
+Work with Personal Lines leadership and the data science steering committee in strategy formulation and data science research agenda
+Work with business partners to scope and develop balance of data science project portfolio.
+Research, analyze and define requirements from key stakeholders on new analytics models, platforms and technologies to significantly improve operational efficiency and effectiveness, growth, profitability and agent/ customer experience.
+Partner with business functions to execute on each project and deliver targeted business results.
+Lead the development and implementation of programs and processes that drive strong internal and external data to support advanced analytics and effective monitoring and analysis of results across personal lines.
+Advocates for data as an asset and strategic competitive advantage.
+Position Requirements:
+Bachelor’s degree required. Advanced level degree or equivalent experience strongly desired.
+Over five years of practical data science and advanced analytics experience.
+Project Management certification desired.
+Insurance industry data analytics experience.
+Prior people management experience required; strong people management skills, effective at coaching and motivating staff. Serves as a role model in building effective relationships.
+Hires and develops talented and intellectually curious people to foster continuing innovation and deliver exceptional data solutions.
+Creates an environment that encourages and values the opinions of others and promotes sharing of information and ideas.
+Collaborative problem solver, who takes ownership of issues, to deliver successful business solutions.
+Anticipates needs of the customer and takes a proactive approach to ensure they are met.
+Ability to negotiate skillfully in difficult situations with both internal and external groups.
+Demonstrated project management skills for effectively running projects with high degree of ambiguity.
+Effectively and creatively utilizes all resources (systems, people, etc.) to manage daily operations.
+Strong verbal and written communication skills.
+EEO statement:
+“The Hanover values diversity in the workplace and among our customers. The company provides equal opportunity for employment and promotion to all qualified employees and applicants on the basis of experience, training, education, and ability to do the available work without regard to race, religion, color, age, sex/gender, sexual orientation, national origin, gender identity, disability, marital status, veteran status, genetic information, ancestry or any other status protected by law.
+
+Furthermore, The Hanover Insurance Group is committed to providing an equal opportunity workplace that is free of discrimination and harassment based on national origin, race, color, religion, gender, ancestry, age, sexual orientation, gender identity, disability, marital status, veteran status, genetic information or any other status protected by law.”
+
+As an equal opportunity employer, Hanover does not discriminate against qualified individuals with disabilities. If you require a reasonable accommodation, as a candidate for employment, please inform The Hanover Talent Acquisition office.
+Privacy Policy:
+To view our privacy policy and online privacy statement, click here.
+
+Applicants who are California residents: To see the types of information we may collect from applicants and employees and how we use it, please click here.
+Other details
+Job Function
+Actuarial
+Pay Type
+Salary
+Required Education
+Bachelor’s Degree",4.1,"The Hanover Insurance Group
+4.1","Worcester, MA",5001 to 10000 Employees,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),0,0,"The Hanover Insurance Group
+",88,144,116.0, MA,169,0,0,0,0,0
+"Sr Scientist, Product Data Management",$53K - $108K (Glassdoor est.),"Job Number: 31636
+
+Reynolds American Incorporated is positively transforming the tobacco industry. We’re a family of companies that strives for success in everything we do. The future inspires us because our people are igniting the breakthroughs that are redefining the ways adult tobacco consumers enjoy tobacco in the 21st century.
+
+When other companies talk about growth, they only talk about size. At Reynolds American, we focus on the growth of our people. We take pride in each other’s growth and well-being throughout our careers. We invest in your career and total well-being because we know our companies succeed when our people thrive.
+ABOUT OUR ORGANIZATION:
+Reynolds American Inc. is an indirect, wholly owned subsidiary of British American Tobacco p.l.c., and the U.S. parent company of R. J. Reynolds Tobacco Company; Santa Fe Natural Tobacco Company, Inc.; American Snuff Company, LLC; Modoral Brands, Inc.; R. J. Reynolds Vapor Company; Lorillard Licensing Company, LLC; Reynolds Brands, Inc.; and Vuse Stores LLC. This position is with R.J. Reynolds Tobacco Company (2004).
+Here, you’ll have the opportunity to work on iconic brands and revolutionary products by collaborating with visionary, principled and passionate people every day.
+The Product Data Management Senior Scientist leads and manages the creation of product and packaging specifications, bill of materials, and master data required to develop and commercialize products consistent with RAI’s Growth, Innovation, and Harm Reduction Platforms. The Senior Scientist will lead and manage multiple projects simultaneously while collaborating across many functions including Product Development, Scientific & Regulatory Affairs, Brand Planning, Marketing, Procurement, Supply Chain, Engineering, Manufacturing, Distribution, and Finance to achieve strategic objectives.
+
+Principal responsibilities and duties:
+
+
+Lead project management activities, drive requirements gathering, and ensure data, system and process needs are met to achieve project timelines.
+Create and maintain manufacturing specifications, system configuration, and relevant data in corporate computer systems including purchased materials, semi-finished assemblies, and finished assemblies.
+Manage business process data required for planning, procurement, manufacture, shipment, and sale
+of direct materials, semi-finished and finished products.
+Collaborate cross functionally to translate technical requirements into commercial specifications, recipes, and bill of materials while ensuring data is accurate, complete, and approved.
+Refine and develop internal business processes and systems to ensure manufacturing and regulatory reporting, compliance and validation requirements are achieved in the implementation of new products and maintenance of existing products.
+
+POSITION QUALIFICATIONS
+
+
+Relevant degree in business, supply chain management, mathematics, physics, chemistry, engineering, computer science or other technical discipline and 5 years of relevant experience.
+The candidate should demonstrate:
+Detailed knowledge of manufacturing and business processes associated with the production of consumer goods
+The ability to interpret technical information for the development of material specifications, bills of material, and system design
+Project management leadership skills with the ability to manage resources and multiple projects simultaneously within project time fences
+Ability to remain focused and efficient while adapting to changing priorities
+Detail oriented with strong organizational skills
+Excellent interpersonal, oral and written communication skills
+Proven ability to apply complex problem solving and critical thinking skills
+The ability to work seamlessly in a team environment and independently in areas of expertise
+Highly proficient in the use of computer systems and programs including Microsoft Office (Excel)
+
+Preferred:
+
+
+Detailed working knowledge of SAP and/or Siemens Interspec software
+Experience in a FDA regulated consumer goods manufacturing company
+
+Compensation/Targeted Bonus
+Competitive Annual Salary
+Targeted Annual Bonus
+Relocation assistance available for those who qualify.
+Benefit Summary
+Our company offers very competitive benefit plans, including:
+401(k) plan that offers opportunity to save on pre- and post-tax basis up to 50 percent of eligible compensation. Company matches 100 percent of employee pre-tax/Roth (401k) contributions up to six percent
+Comprehensive health- and welfare-benefits package
+Eleven paid company holidays annually, plus a generous paid vacation plan based on length of service
+Company-paid sick and personal days, funeral leave and jury duty leave; Also Parental leave/Reduced Work Schedule
+Confidential personal financial counseling service
+On-site health clinics and fitness centers
+A matching grants program that enables employees to direct and double their donations to qualifying charitable organizations of their choice
+Health-care advocacy service
+Volunteer service opportunities
+Federal credit union membership through Allegacy Federal Credit Union
+Extensive training opportunities
+Reynolds American Inc. and its affiliated companies is an Equal Opportunity / Affirmative Action Employer.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.
+
+Our organization offers a level of challenge, responsibility and creativity for motivated employees that stands apart from the crowd.
+
+We are also committed to employing a diverse workforce and valuing different perspectives, experiences and talents to maximize the company's potential for successfully achieving its business objectives.
+-
+Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
+California Privacy Notice",4.3,"British American Tobacco
+4.3","Winston-Salem, NC",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,"British American Tobacco
+",53,108,80.5, NC,119,0,0,0,0,1
+Scientist,$41K - $91K (Glassdoor est.),"Company Description
+
+EAG Laboratories is a global leader in analytical chemistry, advanced microscopy, surface analysis and analytical testing services of various types of materials from synthetic biomaterials to nanotechnology, deliver new “super materials” with the potential to transform our world. Our laboratories are at the forefront of this revolution, providing the scientific expertise and analytical techniques to support companies at every phase of the product lifecycle, from R&D to manufacturing.
+
+Our clients include leading edge tech companies in a diverse range of industries and business sectors who design, manufacture or incorporate products for tomorrow’s technology driven world. EAG’s scientists and engineers engage in peer-to-peer interaction to discuss and comprehensively understand client issues, challenges, goals and urgency, to define the technical problems, develop and execute analyses, and report back results. We have a growth mindset culture where individuals are encouraged to drive their own success and make their own decisions while fulfilling client needs.
+
+Job Description
+
+EAG Laboratories has a great opportunity for a highly motivated chemist who enjoys solving problems using analytical chemistry. In this role, the individual will be responsible for:
+Design experiments with a limited amount of assistance from management and/or experienced scientists
+Applies standard and non-standard techniques, procedures and criteria to carry out a sequence of related tasks to determine the composition, properties and/or structure of materials.
+Performs sample preparation.
+Determine problem-solving solutions for outside the box problems
+Perform hands-on laboratory work with the use of analytical instrumentation
+Interpret analytical data from a variety of techniques (including FT-IR, NMR, GC-MS and/or LC-MS)
+Write reports that are tailored to our client (layman to highly technical) which includes methodology, conclusions and supporting analytical data
+Comfortable working within a fast-paced environment under firm deadlines
+Maintain analytical instrumentation and troubleshoot problems when necessary
+Work effectively in a team environment but also able to work independently
+Communicate in a constructive manner with other scientists and managers
+Proficient in Microsoft Office (Including Excel, Word, Outlook, etc.)
+All accepted applicants must be U.S. Persons as defined by ITAR: U.S. Person is a U.S. Citizen, U.S. Permanent Resident (i.e., ""Green Card Holder""), Political Asylee, or Refugee due to use of information in this role is subject to the International Traffic in Arms Regulations (ITAR).
+
+Qualifications
+PhD or MS degree in Chemistry
+Must have 2+ years of industrial experience
+Hands-on laboratory experience is required
+Multi-Tasking
+Technical competence/curiosity
+Data analysis
+Requirements include fine and gross motor skills, sitting, lifting, bending, speaking and writing
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.",3.6,"EAG Laboratories
+3.6","Saint Louis, MO",501 to 1000 Employees,1978,Subsidiary or Business Segment,Research & Development,Business Services,$100 to $500 million (USD),0,0,"EAG Laboratories
+",41,91,66.0, MO,43,0,0,0,0,1
+Senior Data Scientist,$60K - $104K (Glassdoor est.),"Job Description:
+At Fidelity’s Artificial Intelligence Center of Excellence (COE), you won’t be just tinkering around the edges, you’ll be building critical solutions that will benefit our clients for years to come. We work closely with business stakeholders, collect requirements and deliver high value AI/ML solutions that drive customer and business value. Those of us who love to work with data see this as the pinnacle of opportunities that you cannot find anywhere else in the industry.
+The AI COE is seeking a Senior Data Scientist with experience in Virtual Assistants or chatbots, Natural Language Processing/text analytics, machine learning, various deep learning related technologies, predictive and prescriptive analytics.
+The Expertise You Have
+PhD in Computer Science with extensive research papers on Natural Language Processing, OR Master’s Degree in Computer Science, Statistics, Data Science or similar technical discipline with at least 5 years relevant professional experience
+Deep understanding of Machine Learning & Deep Learning algorithms
+Knowledge of most of the following quantitative fields: Natural Language Processing, Information Retrieval, Machine Comprehension, Question Answering/Conversational AI, Reinforcement Learning, Knowledge Graph, Causal Inference, and Design of Experiment
+Statistical and data science programming skills, such as Python and R
+The Skills You Bring
+Experience in Big Data, search, NLP, and chatbot technologies such as Elasticsearch and Solr
+Knowledge of Deep Learning and related tools such as TensorFlow, Keras, MXNET, or H2O is preferred
+Experience deploying NLP solutions in a commercial environment
+The Value You Deliver
+Manage and guide data science and data engineering elements of AI projects
+Set a strategic direction for data identification, collection and qualification activities
+Lead data analysis for multiple projects with diverse scope and complex business and technical challenges across several business units and functions
+Implement new technologies in a production environment with product, IT, and data engineering teams
+Present reports and findings to senior level technical and non-technical audiences
+Certifications:
+
+Company Overview
+At Fidelity, we are focused on making our financial expertise broadly accessible and effective in helping people live the lives they want. We are a privately held company that places a high degree of value in creating and nurturing a work environment that attracts the best talent and reflects our commitment to our associates. We are proud of our diverse and inclusive workplace where we respect and value our associates for their unique perspectives and experiences. For information about working at Fidelity, visit FidelityCareers.com.
+
+Fidelity Investments is an equal opportunity employer.
+
+Fidelity will reasonably accommodate applicants with disabilities who need adjustments to complete the application or interview process. Please email us at accommodations@fmr.com or 800-835-5099, prompt 2, option 2 if you would like to request an accommodation.",4.1,"Fidelity Investments
+4.1","Boston, MA",10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD),0,0,"Fidelity Investments
+",60,104,82.0, MA,75,1,0,0,0,1
+Data Scientist II,$73K - $124K (Glassdoor est.),"LOCATION 4287 Route 130 S Edgewater Park NJ US 08010
+Overview
+The BI Developer II will be responsible for developing solutions for a mature Retail Merchandising/Business Intelligence platform. The right candidate will have a strong database background, data mining and statistical analysis. Prior Retail experience is a plus. Must have the ability to contribute in all phases of the Software Development Life Cycle (SDLC) including gathering requirements, providing programming support, preparing functional and technical documentation, testing, user acceptance and rollout. Must have strong interpersonal and relationship building skills & strong written and verbal communication skills.
+Burlington is committed to being an employer of choice. We offer a competitive wage and benefit package including a generous paid time off plan, a company matched 401(k) and an associate discount. Our associates make a difference in the lives of customers, colleagues, and our communities through various social responsibility initiatives. As a growing company, we offer a variety of professional development and career growth opportunities.
+Responsibilities:
+Develop ETL programs using SQL, Store Procedures, Shell scripts and Perl in a Linux environment.
+Architect highly scalable and high performing technology solutions for a large BI platform.
+Suggest and develop alternative approaches to resolving problems.
+Create appropriate documentation in work assignments such as program code, and technical documentation.
+Develop test plans to verify logic of new or modified programs.
+Assist in resolving production support problems and help meet pre-defined SLAs for system availability.
+Work collaboratively with other team members to foster an environment of respect, open communication and cross functional expertise.
+Research and develop statistical learning models for data analysis
+Keep up-to-date with latest technology trends
+Communicate results and ideas to key decision makers
+Implement new statistical or other mathematical methodologies as needed for specific models or analysis
+Optimize joint development efforts through appropriate database use and project design
+Requirements:
+Bachelor's Degree or higher
+5+ years Information Technology experience
+5+ years practical experience with SAS, ETL, data processing, database programming and data analytics
+4+ years of Oracle SQL, Oracle PL/SQL
+4+ years of Shell Scripting
+4+ years of Java/Python
+4+ years extensive background in data mining and statistical analysis
+Able to understand various data structures and common methods in data transformation
+Excellent pattern recognition and predictive modeling skills
+Working knowledge with Analytical tools like MicroStrategy
+Today's Date 1/4/2021
+Posting Number 2020-134406
+Location US-NJ-Edgewater Park
+Address 4287 Route 130 S
+Zip Code 08010
+Position Type Regular Full-Time
+Career Site Category Corporate
+Position Category Information Technology
+Evergreen Yes",3.2,"Burlington Stores
+3.2","Edgewater Park, NJ",10000+ Employees,1972,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$5 to $10 billion (USD),0,0,"Burlington Stores
+",73,124,98.5, NJ,49,1,0,0,0,1
+Research Scientist,$46K - $96K (Glassdoor est.),"The research division of the Virginia Department of Transportation (VDOT), the Virginia Transportation Research Council (VTRC), in Charlottesville, VA, is seeking strong engineering researchers to join its Structures research team. Qualified candidates will have experience conducting applied research related to hydraulic cement concrete and its constituents for innovative applications in bridges and other transportation structures, and will have knowledge of underlying material science, rheology and construction processes.
+In this highly important role, you will have the opportunity to serve as a Principal Investigator (PI) or co-PI on multiple research projects.
+You will also have the opportunity to:
+Plan, direct, and conduct research projects within your specialty area.
+Develop research that provides a solution to a problem or an improvement to technologies, processes, procedures, practices or specifications.
+Design and conduct laboratory experiments and/or field trials, as well as collect, analyze, and interpret existing data to solve complex problems within the transportation industry.
+Publish reports and technical papers, and make presentations for national, state, and VDOT audiences.
+Serve in a peer review capacity for colleagues’ final research reports and assist VDOT Divisions with the implementation of research findings.
+Additionally, you will be able to monitor and manage contract research, be a liaison between multiple stakeholders as well as have the opportunity to present and lead workshops and participate in professional organizations and research committees.
+If you are looking to utilize your research expertise to benefit the general public, we’d love to have you consider VDOT.
+
+
+Minimum Qualifications
+Demonstrated knowledge in the specialty areas of high-performance hydraulic cement concrete, with exposure to advancements such as fiber-reinforcement, lightweight mixtures, shrinkage control and other techniques focused on durability of bridges and structures.
+Experience with basic statistical methods, data analytics and life cycle cost analysis.
+Experience in conducting and publishing research.
+Knowledge of civil engineering principles and practices.
+Knowledge of research design, qualitative and quantitative research methods, and statistical analysis techniques.
+The ability to conceptualize, develop, and manage multiple research projects concurrently
+The ability to analyze data, make recommendations and help implement results
+The ability to communicate effectively orally and in writing with diverse audiences at the local, state, and national levels, including preparation of publishable articles for professional journals.
+Proficiency in the use of computer software applications used in structural engineering and data analysis
+
+
+Preferred Qualifications
+A PhD in Civil Engineering, Material Science, or a related field.
+Experience in conducting all phases of transportation research including the publication and implementation of results.
+Experience as a principal investigator or integral member of a research team.
+Experience with analysis of datasets, fundamental statistics and computer programming.
+Experience in providing technical consulting to a large, complex organization.
+Successful completion of the Fundamentals of Engineering (FE) exam or possession of a valid professional engineer (PE) license.
+
+
+Special Requirements
+This position requires an FBI fingerprint background and DMV record check.
+
+
+Special Instructions to Applicants
+State applications will only be accepted as submitted online by 11:59 pm on the closing date through the Recruitment Management System (RMS). State applications submitted via email, postal mail, fax, or in person will not be considered.
+Applicants are expected to fully represent qualifications and work history on the State application. The decision to interview an applicant is based on the information provided on the application, therefore, it is essential to fully complete each section of the application and provide detailed information. Submitting an incomplete state application, or a state application lacking in detail, may impact your interview eligibility. This website will provide a confirmation of receipt when the application is submitted successfully. Please refer to “Your Application” in your RMS Account to check the status of your application for this position.
+The Virginia Department of Transportation (VDOT) is an Equal Opportunity Employer by both policy and practice. For more information about our employment practices, please visit “Information for VDOT Employees and Applicants”: http://www.virginiadot.org/jobs/information_for_employees.asp
+
+Name
+Charlene T. Easter
+
+Phone
+
+Fax
+
+Email
+charlene.easter@vdot.virginia.gov
+
+Address",3.9,"Virginia Dept of Transportation
+3.9","Charlottesville, VA",5001 to 10000 Employees,1906,Government,State & Regional Agencies,Government,$5 to $10 billion (USD),0,0,"Virginia Dept of Transportation
+",46,96,71.0, VA,115,0,0,0,0,0
+Sr Scientist Product Integrity,$49K - $102K (Glassdoor est.),"Job Number: 31264
+
+Reynolds American Incorporated is positively transforming the tobacco industry. We’re a family of companies that strives for success in everything we do. The future inspires us because our people are igniting the breakthroughs that are redefining the ways adult tobacco consumers enjoy tobacco in the 21st century.
+
+When other companies talk about growth, they only talk about size. At Reynolds American, we focus on the growth of our people. We take pride in each other’s growth and well-being throughout our careers. We invest in your career and total well-being because we know our companies succeed when our people thrive.
+ABOUT OUR ORGANIZATION:
+Reynolds American Inc. is an indirect, wholly owned subsidiary of British American Tobacco p.l.c., and the U.S. parent company of R. J. Reynolds Tobacco Company; Santa Fe Natural Tobacco Company, Inc.; American Snuff Company, LLC; Modoral Brands, Inc.; R. J. Reynolds Vapor Company; Lorillard Licensing Company, LLC; Reynolds Brands, Inc.; and Vuse Stores LLC. This position is with RAI Services Company (2200).
+Here, you’ll have the opportunity to work on iconic brands and revolutionary products by collaborating with visionary, principled and passionate people every day.
+Sr. Scientist - Product Integrity
+Position Description:
+
+RAI Services Company (RAIS) is seeking a Senior Scientist to support Consumer Product Safety assessment in the development of new products consistent with RAIS' Growth, Innovation and Harm Reduction Platforms, and assist efforts such as regulatory submissions. The incumbent will be required to provide stewardship and regulatory support for consumer products, critically assess a broad range of toxicological information, evaluate chemical and toxicological data, develop technical documents on a variety of scientific and risk assessment topics, and assist with the preparation and/or review of information supporting regulatory submissions. The individual will be required to interact cross-functionally, throughout the enterprise, and globally, as well as manage multiple projects to ensure project timelines are met.
+
+Key responsibilities will include:
+Provide Stewardship support across products, materials, ingredients, technologies, manufacturing processes, etc.
+Develop technical documents related to various scientific, risk assessment, and regulatory topics, including toxicological data summaries, presentations, and peer-reviewed publications.
+Lead management of project plans and timelines, including global collaborations.
+Lead and/or assist with the preparation of documents that support regulatory submissions.
+
+Position Qualifications:
+
+Educational Requirements
+PhD in Toxicology, Pharmacology, Biological Sciences or related discipline;
+MS in Toxicology, Pharmacology, Biological Sciences or related discipline with a minimum 2 years of experience conducting human safety assessments of consumer products (e.g., cosmetics, household products), medical devices, pharmaceuticals, or chemicals.
+
+Required Skills
+Experience organizing and working with large sets of data and information.
+Expertise in utilizing web searches and scientific databases for bibliographic research and scientific monitoring.
+Strong scientific and technical writing skills.
+Proficiency in Microsoft Office software with advanced ability to generate spreadsheets and tables.
+Excellent project management, teamwork, interpersonal, and written/oral communication skills.
+
+Preferred Skills
+Experience applying Quantitative Risk Assessment (QRA) approaches to the preparation of human health risk assessments
+Experience with critical evaluation of non-clinical toxicological studies.
+Experience with the preparation of documents used to support of regulatory submissions.
+Proficiency with EndNote or equivalent.
+Compensation/Targeted Bonus
+Competitive Annual Salary
+Targeted Annual Bonus
+Relocation assistance available for those who qualify.
+Benefit Summary
+Our company offers very competitive benefit plans, including:
+401(k) plan that offers opportunity to save on pre- and post-tax basis up to 50 percent of eligible compensation. Company matches 100 percent of employee pre-tax/Roth (401k) contributions up to six percent
+Comprehensive health- and welfare-benefits package
+Eleven paid company holidays annually, plus a generous paid vacation plan based on length of service
+Company-paid sick and personal days, funeral leave and jury duty leave; Also Parental leave/Reduced Work Schedule
+Confidential personal financial counseling service
+On-site health clinics and fitness centers
+A matching grants program that enables employees to direct and double their donations to qualifying charitable organizations of their choice
+Health-care advocacy service
+Volunteer service opportunities
+Federal credit union membership through Allegacy Federal Credit Union
+Extensive training opportunities
+Reynolds American Inc. and its affiliated companies is an Equal Opportunity / Affirmative Action Employer.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.
+
+Our organization offers a level of challenge, responsibility and creativity for motivated employees that stands apart from the crowd.
+
+We are also committed to employing a diverse workforce and valuing different perspectives, experiences and talents to maximize the company's potential for successfully achieving its business objectives.
+-
+Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
+California Privacy Notice",4.3,"British American Tobacco
+4.3","Winston-Salem, NC",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,"British American Tobacco
+",49,102,75.5, NC,119,0,0,0,0,1
+Data Analyst (South of Milwaukee),$65K - $79K (Employer est.),"Data Analyst
+Corporate Headquarters
+12575 Uline Dr. Pleasant Prairie, WI 53158
+
+We're passionate about our products because our customers rely on them to run their businesses.
+
+Better together than apart. This position is on-site, and we are looking for good people who share our passion.
+
+Uline is proud to operate as a drug-free workplace. All new hires must complete a pre-employment drug screening.
+
+Position Responsibilities
+Write SQL queries to retrieve sales, customer and product data.
+Perform ad hoc analysis and create reports to illustrate performance, answer business questions and provide recommendations.
+Apply basic and intermediate statistical methods (e.g. data aggregation, regression analysis, time series analysis, etc.) to solve business questions.
+Collaborate with pricing team members to create reports, analyses and presentations.
+Build relationships with the Merchandising and Logistics teams to develop trust and understand processes.
+Create what-if scenarios to quantify the impact due to catalog price or vendor cost changes.
+
+Minimum Requirements
+Bachelor’s degree. Business, statistics, mathematics or computer science majors preferred.
+Proficient in Excel with exposure to SQL, Power BI and statistical methods.
+Analytical and organized with relentless attention to detail.
+Strong intellectual curiosity with willingness to learn new concepts and tools.
+
+Benefits
+Complete insurance coverage that includes medical, dental, vision and life insurance, Flexible Spending Accounts and wellness programs.
+401(k) with 5% employer match.
+Paid holidays and generous paid time off.
+Bonus programs that include annual performance, sales goals and profit sharing.
+Scholarship program for children of employees.
+
+Employee Perks
+On-site café with executive chefs and seasonal dinner-to-go options.
+First-class fitness center with complimentary personal trainers.
+Over four miles of beautifully maintained walking trails.
+Numerous employee appreciation events throughout the year.
+Professional development classes and monthly in-house speakers.
+
+About Uline
+
+Uline is North America's leading distributor of shipping, industrial and packaging materials. We're a family-owned company known for incredible service, our 800+ page catalog of over 37,500 quality products and same-day shipping of our huge in-stock inventory. With over 7,000 employees across 12 locations, it's time you joined Uline.
+
+Uline provides the essential supplies needed to keep organizations operational and productive. To protect the health and safety of our employees, we have modified our normal operating policies in response to COVID-19.
+
+Each resume submitted gets individually reviewed by our team and retained for 24 months in case a great opportunity opens for you to join our Uline family.
+
+EEO/AA Employer/Vet/Disabled
+Uline is a drug-free workplace.
+
+#LI-LP1
+#CORP",3.6,"Uline
+3.6","Milwaukee, WI",5001 to 10000 Employees,1980,Company - Private,Wholesale,Business Services,Unknown / Non-Applicable,0,0,"Uline
+",65,79,72.0, WI,41,0,0,0,0,1
+Permitting/ Wetland Scientist,$45K - $70K (Glassdoor est.),"Overview:
+PS&S is an award-winning “one-stop shop” of architecture and engineering excellence. The depth and breadth of our expertise has helped PS&S grow into a firm of more than 275 professionals offering multi-disciplined, full-service architecture, engineering, design and environmental consulting services.
+We offer a single source for planning, design and regulatory compliance services on diverse projects across a number of market segments - education, energy/utilities, hospitality/entertainment, infrastructure/public improvement, real estate and science/technology. Our ability to present virtually all engineering disciplines side by side with our architectural services allows us to respond, quickly and efficiently, to clients’ unique needs. Having proudly served a sophisticated client base operating in numerous industries, we know the importance of developing the most on-time, cost-effective and high-quality solutions to the most difficult client challenges. Our success is measured by the success of our clients; the success of each project is our number one priority.
+
+Responsibilities:
+Position may be based in our Wall Office or Warren, NJ Offices
+Job Duties and Responsibilities
+
+Conduct and direct wetland and waterbody identification and delineation, wildlife habitat assessments, vegetation monitoring and other ecological field surveys
+Assist in habitat assessments for threatened and endangered species
+Implement field and office data collection efforts, data validation, and data evaluation
+Prepare various technical reports
+Prepare and direct the preparation of permit applications, including US Army Corps and NJDEP Land Use permitting
+Process data, and oversee the development of map figures, data tables, and illustrations
+Conduct online research and data searches
+Assist with project management and proposal development
+Ability and willingness to conduct field work including travel
+
+Qualifications:
+Qualifications and Requirements
+5-7 or more years of relevant work experience on wetland delineation and permitting projects
+Bachelor’s Degree or higher in environmental sciences, wildlife management, biology or closely related field is required
+Strong work ethic and attention to detail, with good organizational skills and ability to manage deadlines and accomplish multiple tasks
+Strong technical writing, oral communication, and interpersonal skills
+Desire to gain additional experience with project management, client development, and proposal preparation
+Knowledge and use of office Microsoft software packages
+Knowledge of New Jersey regulations helpful but not required
+OSHA 40 - Hour Training preferred but not required
+Experience using Trimble GPS units a plus but not required.
+Ability to work in a team environment as well as independently
+This position is a great opportunity for qualified professionals who are energetic and enthusiastic and who like a wide variety of project types",2.9,"PS&S
+2.9","Wall Township, NJ",201 to 500 Employees,1962,Company - Private,Architectural & Engineering Services,Business Services,$50 to $100 million (USD),0,0,"PS&S
+",45,70,57.5, NJ,59,0,0,0,0,1
+Social Scientist (Health Workforce Analytics Advisor),$47K - $94K (Glassdoor est.),"You are encouraged to read the entire announcement before you submit your application package. Your application may not receive full consideration if you do not follow the instructions as outlined.
+
+This position is located in the Office of HIV/AIDS, Systems and Program Sustainability Division, Health Workforce Branch (GH/OHA/SPS/HWF), USAID Annex, 500 D Street, SW, Washington, DC,.
+
+This position does not have a positive education requirement. Therefore, no Transcripts are required.
+
+As a Social Scientist (Health Workforce Analytics Advisor) you will:
+Serve as an agency expert providing intellectual leadership to the HWF branch in conceptualizing and carrying-out a rigorous data analysis plan that advances USAID and PEPFAR monitoring of HRH investments for HIV and health programs
+Identify and promote the use of social science methodologies to measure and model the impact of specific workforce interventions to inform HRH programming to achieve and sustain HIV and other health goals
+Advise on the integration of health workforce data into USAID, PEPFAR, and host-country data platforms including advancement of metrics and data system refinements to drive use of HRH data
+Work in collaboration with program experts and advises field Missions, HQ, and interagency, to standardize health worker data collection, analytics, and data use in program management
+Manage and evaluate major centrally managed grants,
+cooperative agreements, and contracts with a focus on HRH and data issues, and prepares concept
+papers and background analyses for new activities and procurements
+Guide greater utilization of local organizations for HRH programs. Manages program, financial, reporting, and accountability processes
+This position includes a Selective Placement Factor. Selective Placement Factors are a prerequisite to appointment and represent minimum requirements for a position. Applicants who do not meet these factors are ineligible for further consideration. NOTE: Experience must be documented in your resume.
+
+Selective Placement Factor Question: Technical and programmatic experience in strengthening of human resources for health related to HIV/AIDS and/or broader health programming within low- and middle-income country settings.
+
+GS-14-You must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-13 level in the Federal service. One year of experience refers to full-time work; part-time work is considered on a prorated basis. Examples of qualifying specialized experience at the next lower level for this position includes:
+
+a) Reviewing and or developing rigorous analysis plans, applying a wide range of quantitative data collection and analytical methods and for the study of workforce for health/HIV or other workforce specialization programs
+b) Shows experience in applying statistical and/or other social science methodologies to measure and model the impact of optimal workforce interventions to achieve and sustain development goals for HIV/AIDS and/or other health programs
+c) Monitors the planning and conduct of large and/or cross-national data collection processes and data systems management regarding workforce for development such as for health or labor
+d) Explaining and advising USG, host-county or external stakeholders in use of workforce data for development programs such as for health or labor and its use in program planning and
+e) Possesses experience with program management of USG or other donor funded activities that are relevant to the study of workforce, including conceptualization for activity design and implementation.
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, relevant to the duties of the position to be filled, including volunteer experience.
+
+ICTAP candidates will be referred to the selecting official if they are found well qualified. Well-qualified means an eligible employee who possesses the knowledge, skills, and abilities which clearly exceed the minimum requirements of the position. A well-qualified employee must meet the qualification and eligibility requirements of the position, including any medical qualifications, suitability, and minimum education and experience requirements, meet all selective factors (where applicable); meet quality ranking factors and are assigned to the Silver Category or higher Category; be physically qualified with reasonable accommodation to perform the essential duties of the position; meet any special qualifying U.S. OPM-approved conditions; AND be able to satisfactorily perform the duties of the position upon entry without additional training.
+
+A well-qualified candidate will not necessarily meet the definition of highly or best qualified when evaluated against other candidates who apply for a particular position. In the absence of selective and quality ranking factors, selecting officials will document the job-related reason(s) for qualification determinations.",3.9,"U.S. Agency for International Development
+3.9","Washington, DC",5001 to 10000 Employees,1950,Government,Federal Agencies,Government,Less than $1 million (USD),0,0,"U.S. Agency for International Development
+",47,94,70.5, DC,71,0,0,0,0,0
+Data Scientist,$59K - $99K (Glassdoor est.),"We are Cognizant Artificial Intelligence
+Digital technologies, including analytics and AI, give companies a once-in-a-generation opportunity to perform orders of magnitude better than ever before. But clients need new business models built from analyzing customers and business operations at every angle to really understand them.
+With the power to apply artificial intelligence and data science to business decisions via enterprise data management solutions, we help leading companies prototype, refine, validate and scale the most desirable products and delivery models to enterprise scale within weeks.
+You must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future *
+Title - Sr. Data Scientist
+Location - Remote / Dallas, TX
+Job Description -
+Bachelor's Degree in Computer Science, Electrical Engineering, or similar.
+Experience with the linear modeling functions within R
+5+ years of experience as an R Developer
+5+ years of experience using SQL to wrangle data.
+Strong ability to communicate clearly and concisely to stakeholders to ensure alignment on project status and deliverables
+Experience with various programming design patterns
+Demonstrated success in architecting new applications
+Experience working with geographically distributed teams and partners, including managing dependencies from internal / external partners
+Experience with Agile (SCRUM, Kanban, XP), modeling, web services, unit testing, code review, source control (git, subversion), UNIX, middleware and databases
+Experience mentoring and training the engineering community on complex technical issues
+Ability to effectively communicate with others, perform work in a team environment, and relay necessary information as appropriate.
+Automation/scripting experience
+Strong debugging, problem solving and investigative skills. Ability to assimilate disparate information (log files, error messages etc.) and pursue leads to find root cause problems.
+Strong consulting and communication skills. Ability to work effectively with various organizations in pursuit of problem solutions.
+
+#LI-PT1 #CB #Ind123
+Employee Status : Full Time Employee
+Shift : Day Job
+Travel : No
+Job Posting : Dec 14 2020
+
+About Cognizant Cognizant (Nasdaq-100: CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 194 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us @USJobsCognizant.
+
+Cognizant is recognized as a Military Friendly Employer and is a coalition member of the Veteran Jobs Mission. Our Cognizant Veterans Network assists Veterans in building and growing a career at Cognizant that allows them to leverage the leadership, loyalty, integrity, and commitment to excellence instilled in them through participation in military service.
+Cognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.
+If you have a disability that requires a reasonable accommodation to search for a job opening or submit an application, please email CareersNA2@cognizant.com with your request and contact information.",3.7,"Cognizant Technology Solutions
+3.7","Dallas, TX",10000+ Employees,1994,Company - Public,-1,-1,$10+ billion (USD),0,0,"Cognizant Technology Solutions
+",59,99,79.0, TX,27,0,0,0,0,1
+Data Analyst - Product Development (eCommerce),$37K - $66K (Glassdoor est.),"JOB TITLE: Data Analyst - Product Development (eCommerce)
+REPORTS TO: Manager, Analytics
+JOB SUMMARY: The Data Analyst will play a critical role in helping BNED analyze the business through product analytics and evolve as a “digital-first” organization. The Data Analyst will work closely with business stakeholders to identify and measure key performance indicators. This candidate must be comfortable working with large sets of data and using critical thinking/analytical skills to unlock key actionable insights.
+ESSENTIAL FUNCTIONS:
+Analyze business & customer behavior data to identify opportunities for product and website enhancements
+Leverage data to drive improvement in customer experience
+Research and communicate industry trends to support analyses
+Aggregate, validate and uncover actionable insights from various internal and external data sources, and provide analyses to address specific business objectives
+Translate complex analyses into concise and easily consumable reports, insights, and recommendations
+Craft business presentations and reports, and deliver results to a wide audience across all levels of the organization
+Audit existing reports and make recommendations for improvements including consolidation of reports, new reports and senior-level snapshots
+Focus on continuous improvements – push the organization towards new and improved ways to use data to improve business processes and outcomes
+Continually evaluate and apply new analytics methodologies
+Additional responsibilities as required
+Complies at all times with the Standards, policies and Code of Business Conduct and Ethics set out in the Employee Handbook
+REQUIREMENTS/QUALIFICATIONS:
+Bachelor’s degree or higher, preferably with a concentration in Finance, Computer Science, Mathematics, Accounting, Economics, Statistics or Marketing
+2-4 years of work experience in online marketing, web conversion, or retail (online or offline)
+Knowledge or experience in forecasting and financial modeling and/or UI testing and optimization
+Intermediate data analysis experience, including the identification of trends, patterns, outliers, and the correlation of data between multiple sources
+Able to go “beyond” what the data says to address ambiguity and holes
+Strong statistics and research method skills
+Strong report design and development skills
+Excellent analytical, creative, and problem-solving abilities
+Comfortable working with deadlines and multiple tasks
+Able to effectively prioritize requests across multiple initiatives
+Self-motivated and independent; comfortable making decisions without direct supervision
+Enjoys working in a collaborative environment
+Possess an entrepreneurial spirit with a focus on emerging trends, technology and features
+Strong communication skills, especially written
+Able to communicate complex concepts and information succinctly
+Experience with Adobe Analytics, Google Analytics, Cognos, or IBM Analytics (Coremetrics/Acoustic)
+Experience with data visualization tools (preferably with Tableau)
+Experience with digital commerce platforms and systems (preferably with SAP)
+KEY RELATIONSHIPS:
+eCommerce & Analytics
+Product Development
+Marketing
+Merchandising
+Barnes & Noble Education, Inc. is an Equal Employment Opportunity and Affirmative Action Employer committed to diversity in the workplace. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
+#IND",3.5,"Barnes & Noble Education
+3.5","Boston, MA",10000+ Employees,1965,Subsidiary or Business Segment,Media & Entertainment Retail Stores,Retail,$1 to $2 billion (USD),0,0,"Barnes & Noble Education
+",37,66,51.5, MA,56,0,0,0,0,1
+Data Analyst,$34K - $64K (Glassdoor est.),"As a Data and Reporting Analyst, you will join our team on a journey to help eliminate barriers for patients, increase their access to medications, and help them receive lifesaving treatments while working in an environment that nurtures you.
+The Data Analyst must be an excellent communicator (both orally and written) and be able to effectively foster interactive collaboration and discussions among clients and internal TrialCard teams. As a Data Analyst, you are r­esponsible for gaining a full understanding of the assigned program(s) and should have a fluent understanding of report design and configuration. Must be able to review and analyze data as well as present conclusions in a logical and clear manner. Must be able to effectively work as part of a team.
+
+Manage requirements gathering, specifications development, and development of ad-hoc and standardized, production-level reports using MicroStrategy, Salesforce.com, and any other applicable software platform
+Build reports using templates, documents and free-form SQL
+Act as Subject Matter Expert to provide recommendations and expertise for all TrialCard data and reporting capabilities for assigned programs and/or clients
+Track and manage Program suite of reports, both standard, custom and outgoing data feeds
+May track and manage inbound data feeds and manage restatement requests based on program needs
+Own Level of Effort (LOE) for our reporting services, identifies when a report is chargeable, and recommends cost to Account Team
+Identify additional data, reporting, and analytic needs of the assigned pharmaceutical clients and the scope work necessary to fulfill them.
+Communicate with the Account and/or Program Leadership Team on required deliverables, provide timelines and recommendations based on best practices, and prioritize work by accounts as necessary
+Routinely interact with the Analytics & Reporting Marketing Manager to identify new data and reporting needs and provide updates to Marketing for service capabilities. Varies by Program
+Identify, define, and coordinate with other departments to connect our data and reporting to improve TrialCard’s suite of products and services
+Collaborate with Data Architects and ETL Developers to design or enhance data warehouse for the purpose of high performance reports
+Develop new and innovative data, reporting and analytic products and services, as necessary
+Work with programming environments, SQL, SSRS, MS Excel, Salesforce.com, and MicroStrategy platforms
+Provide leadership and training to other team members on fundamental data mining and report creation techniques and applications
+Develop metrics and provide data for process measurement
+Identifying indicators for future process improvement opportunities
+Any other tasks or projects as assigned by immediate supervisor
+
+Bachelor’s degree in Math, Statistics, Economics, Finance, Computer Science, Engineering or similar discipline.
+Must have 2+ years of client-facing experience
+Solid technical writing skills; ability to clearly and completely articulate work to be done and describe tasks using proper terminology
+Experience interpreting data and presenting meaningful, client-ready business insights
+Demonstrated application of Analytical skills
+Mid-level proficiency in SQL programming and common query optimization techniques for data extraction
+Advanced Excel and/or Access skills. (e.g., VLOOKUP, SUMIF, Macros)
+Intermediate MS PowerPoint skills
+Proficiency in MS Outlook, MS Windows
+Understanding of dimensional data modeling concepts, as well as data warehousing design highly desirable.
+Experience designing and implementing enterprise business intelligence solutions using Microstrategy, Salesforce.com, Microsoft SSRS or similar highly desirable
+Knowledge of the pharmaceutical industry, direct marketing or finance highly desirable",3.0,"TrialCard
+3.0","Morrisville, NC",1001 to 5000 Employees,2001,Company - Private,Advertising & Marketing,Business Services,$50 to $100 million (USD),0,0,"TrialCard
+",34,64,49.0, NC,20,0,0,0,0,1
+Data Scientist,$70K - $115K (Glassdoor est.),"A data scientist's main mission is to collaborate with the business operations team to answer business questions by using data mining techniques, including pattern detection, graph analysis or statistical analysis. This position is an advanced technical professional role responsible for exploring and analyzing data across the enterprise and presenting information and key insights that supports the organization's strategies. Data Model Architecture designs must meet initial needs and allow scalability to support growth. The Data Scientist will have in-depth knowledge across multiple technical environments as well as strong business acumen and can provide expertise regarding systems design, integration and performance analysis across the business. The role promotes shared infrastructure and applications to reduce costs and improve information flows, and it ensures that new technology solutions do not duplicate functionality or diverge from each other and business and IT strategies. This role will interface with the business and IT community to ensure that the right people have access to the right data in the right format at the right time. The Data Scientist will identify and prioritize opportunities for and contribute to the improvement of quality, safety and cost, as well as Patient, Customer, Physician and Employee satisfaction.Educational Requirements
+Required:
+Bachelor's degree with a major in Information Systems, Computer Science, Mathematics, Engineering, Statistics or related scientific discipline
+Preferred:
+Master's Degree or Ph.D in a relevant technical field OR Information Systems certification in a specific supported software package(s)
+Experience
+Required:
+10+ years of experience designing, managing, developing and analyzing multiple large complex data models spanning multiple disparate sources
+5+ years of experience delivering key insights to and serving as trusted advisor to Board of Directors, Executives, Directors and Managers
+Preferred:
+Experience with business and clinical data in a healthcare setting, especially Epic, Lawson Experience utilizing a formal Quality Management methodology such as Lean, Six Sigma or TQM
+State of Florida Licensure Requirements
+Not Required
+
+Certifications/Registration Requirements
+One or more industry certifications such as: PMI, CPHIMS, ITIL, COBIT, CMMI, Six Sigma (preferred)",3.6,"Lee Health
+3.6","Fort Myers, FL",10000+ Employees,1916,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,"Lee Health
+",70,115,92.5, FL,105,0,0,0,1,0
+Data Engineer,$47K - $91K (Glassdoor est.),"Must live in the Greater Sacramento Area(Remote)
+
+Opportunity
+Quick Quack is looking for a highly skilled and experienced Data Engineer to be an integral part of our successful, growing business. The Data Engineer will be responsible for helping us expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross-functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The Data Engineer will support our software developers, data analysts, data scientists, and stakeholders on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. You will work in a key position, where your efforts will have an impact on both the company and the product.
+Responsibilities:
+· Create and maintain optimal data pipeline architecture.
+· Assemble large, complex data sets that meet functional/non-functional business requirements.
+· Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+· Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies.
+· Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+· Build and maintain business intelligence reports in Tableau.
+· Work with stakeholders including the Executive, Product, and Data teams to assist with data-related technical issues and support their data infrastructure needs.
+· Create data tools for analytics and data team members that assist them in building and optimizing our product and business decisions.
+· Work with data and analytics experts to strive for greater functionality in our data systems.
+Skills & Requirements:
+· Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+· Experience building and optimizing ‘big data’ data pipelines, architectures, and data sets.
+· Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+· Strong analytic skills related to working with unstructured datasets.
+· Build processes supporting data transformation, data structures, metadata, dependency, and workload management.
+· A successful history of manipulating, processing and extracting value from large disconnected datasets.
+· Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.
+· Strong project management and organizational skills.
+· Experience supporting and working with cross-functional teams in a dynamic environment.
+· We are looking for a candidate with 3+ years of experience in a Data Engineer role, who has attained a bachelor’s degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field.
+· They should also have experience using the following software/tools:
+o Experience with big data tools: Kafka, Druid, Hadoop, etc.
+o Experience with relational SQL databases: Postgres, etc.
+o Experience with data pipeline and workflow management tools: Airflow, etc.
+o Experience with AWS cloud services: EC2, RDS, Redshift, S3, etc.
+o Experience with stream-processing systems: Flink, etc.
+o Experience with object-oriented/object function scripting languages: Python, etc.
+Company Background
+Headquartered in Roseville, California, Quick Quack Car Wash owns and operates over 100 locations in the western United States. Quick Quack takes pride in being regularly recognized as “the Innovative” car wash in the industry. Additionally, Quick Quack has been recognized as an environmentally friendly and sustainable business.
+Quick Quack has established a culture of exceptionally talented people in a great work atmosphere, committed to a special set of values:
+· Excellence Through Teamwork. The Quick Quack team maintains an environment of trust and respect, where all are held accountable and successes are celebrated. Ideas, issues, and expectations are communicated openly. Teams pull together and work through complex topics, and ideas and learnings are regularly shared.
+· Operational Strength. All take responsibility for quality and continually seek opportunities for improvement. This includes not only our personal skillsets but also the code we develop and deploy.
+· Every Member is a Leader. While they find strength in teamwork, each Team Member’s individual attitude and actions also influence the success of the company and those they serve. Individual goals are set alongside goals of the company and fellow Team Members assist each other to reach them.
+· Experts in our Industry. Team Members grow in their expertise and knowledge about our products and services, as well as industry standards. All Team Members take responsibility to participate in opportunities for technical, personal, and professional advancement. We take pride in the amount of vertical integration that our company has achieved through our expertise.
+· Commitment to the Customer. Every Team Member is responsible for delivering best-in-class customer experiences. Team Members achieve this through honest, welcoming, and helpful communication, and demonstrate pride through maintaining a supportive and professional disposition. Each Team Member is an integral part of Quick Quack. Through individual and collective excellence and commitment, they aim to provide not only their best but also the very best of the car wash industry.
+Job Type: Full-time
+Pay: $100,000.00 - $120,000.00 per year",3.7,"Quick Quack Car Wash
+3.7","Roseville, CA",1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail,Unknown / Non-Applicable,0,0,"Quick Quack Car Wash
+",47,91,69.0, CA,17,1,0,0,1,1
+Sr Scientist Non-Clinical Studies,$56K - $112K (Glassdoor est.),"Job Number: 31143
+
+Reynolds American Incorporated is positively transforming the tobacco industry. We’re a family of companies that strives for success in everything we do. The future inspires us because our people are igniting the breakthroughs that are redefining the ways adult tobacco consumers enjoy tobacco in the 21st century.
+
+When other companies talk about growth, they only talk about size. At Reynolds American, we focus on the growth of our people. We take pride in each other’s growth and well-being throughout our careers. We invest in your career and total well-being because we know our companies succeed when our people thrive.
+ABOUT OUR ORGANIZATION:
+Reynolds American Inc. is an indirect, wholly owned subsidiary of British American Tobacco p.l.c., and the U.S. parent company of R. J. Reynolds Tobacco Company; Santa Fe Natural Tobacco Company, Inc.; American Snuff Company, LLC; Modoral Brands, Inc.; R. J. Reynolds Vapor Company; Lorillard Licensing Company, LLC; Reynolds Brands, Inc.; and Vuse Stores LLC. This position is with RAI Services Company (2200).
+Here, you’ll have the opportunity to work on iconic brands and revolutionary products by collaborating with visionary, principled and passionate people every day.
+NONCLINICAL TOXICOLOGIST (Senior Scientist)
+
+Position description:
+RAIS Services Company (RAIS) is seeking a well-organized nonclinical scientist with in vitro experience to support the assessment of tobacco products consistent with RAIS’ Growth, Innovation and Harm Reduction platforms.
+The incumbent will coordinate, monitor, review and report results from standardized/established in vitro toxicology assays conducted at Contract Research Organizations (CROs). The individual will be required to interact routinely with various internal and external groups, serve as a subject matter expert to draft/support documents used for in vitro toxicology submissions and may provide supplemental support for multiple projects to ensure timelines are met.
+Specifically, this position will primarily consist of acting as a nonclinical toxicology Study Monitor responsible for overseeing the development and progress of studies, ensuring that studies are conducted, recorded and reported according to protocol and the Company’s objectives. The Study Monitor also provides oversight to ensure that studies are compliant with the appropriate GLP guidelines, as well as CRO and Company standard operating procedures.
+
+Key Responsibilities:
+Manage and interpret analytical and toxicology studies to support product assessment and regulatory submissions
+Perform the role of Study Monitor and/or provide support for nonclinical toxicology studies, primarily in the framework of studies conducted globally by Contract Research Organizations (CROs)
+Work closely with other nonclinical scientists and internal stakeholders to implement testing strategies, study design and timelines
+Participate in the selection and qualification of applicable CROs and manage the logistics of study initiation and conduct, including protocol development, attention to budget management/tracking, ongoing oversight and review and data and final report
+Conduct and/or oversee onsite monitoring visits and technical/compliance audits, and observe critical study phase procedures
+Ensure GLP compliance in all applicable studies
+
+POSITION QUALIFICATIONS:
+Minimal Requirements:
+PhD or MS in Toxicology, Pharmacology or closely related discipline with minimum of 2 years’ experience conducting nonclinical studies in a regulated environment, OR:
+BA or BS: minimum of 8 years’ experience conducting/managing nonclinical in vivo or in vitro studies in tobacco, pharmaceutical, medical device or chemical industry
+Minimum 2 years as Study Director and/or Study Sponsor/Monitor for nonclinical studies
+Training and experience in the conduct of nonclinical studies compliant with 21 CFR part 58 and part 11 and/or OECD GLP regulatory requirements
+Ability to travel internationally
+
+Ideal Candidate:
+Demonstrated study management and teamwork skills
+Experience in oversight of in vivo as well as in vitro studies
+Excellent computer, written and oral communication skills
+Established publication record in peer-reviewed journals
+Experience with nonclinical studies using tobacco smoke and/or inhalation experience
+Experience with complex cell models
+
+Compensation/Targeted Bonus
+Competitive Annual Salary
+Targeted Annual Bonus
+Relocation assistance available for those who qualify.
+Benefit Summary
+Our company offers very competitive benefit plans, including:
+401(k) plan that offers opportunity to save on pre- and post-tax basis up to 50 percent of eligible compensation. Company matches 100 percent of employee pre-tax/Roth (401k) contributions up to six percent
+Comprehensive health- and welfare-benefits package
+Eleven paid company holidays annually, plus a generous paid vacation plan based on length of service
+Company-paid sick and personal days, funeral leave and jury duty leave; Also Parental leave/Reduced Work Schedule
+Confidential personal financial counseling service
+On-site health clinics and fitness centers
+A matching grants program that enables employees to direct and double their donations to qualifying charitable organizations of their choice
+Health-care advocacy service
+Volunteer service opportunities
+Federal credit union membership through Allegacy Federal Credit Union
+Extensive training opportunities
+Reynolds American Inc. and its affiliated companies is an Equal Opportunity / Affirmative Action Employer.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.
+
+Our organization offers a level of challenge, responsibility and creativity for motivated employees that stands apart from the crowd.
+
+We are also committed to employing a diverse workforce and valuing different perspectives, experiences and talents to maximize the company's potential for successfully achieving its business objectives.
+-
+Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
+California Privacy Notice",4.3,"British American Tobacco
+4.3","Winston-Salem, NC",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,"British American Tobacco
+",56,112,84.0, NC,119,0,0,0,0,1
+Data Engineer III,$72K - $136K (Glassdoor est.),"At EMC, you'll put your skills to good use as an important member of our team. You can count on gaining valuable experience while contributing to the company's success. EMC strives to hire and retain the best people by engaging, developing and rewarding employees.
+Essential Functions:
+Develops, tests, and maintains pipeline architecture and infrastructure
+Develops and maintains complex automated ETL pipeline architecture using assigned tools and programming languages
+Implements and supports reporting and analytics infrastructure for internal business customers using AWS services
+Leads moderately complex projects or supports larger initiatives as part of a team
+Leads the team on conceptualizing and developing new data solutions to meet the business requirements
+Researches, performs analysis, and proposes effective solutions related to system developments and enhancements
+Develops and optimizes complex data warehouse and landing zone tables using best practices for data definition language (DDL), physical and logical tables, data partitioning, compression and parallelization
+Education & Experience:
+Bachelor’s degree, preferably in a computer related field or equivalent relevant experience
+Five years of data integration development experience, or related experience
+Knowledge, Skills & Abilities:
+Strong SQL knowledge and experience working with relational databases
+Excellent analytic skills to work with unstructured datasets
+Excellent knowledge of applicable programming languages, such as Python
+Good knowledge of AWS cloud services such as S3, Glue, Athena, Cloudwatch and Lambda
+Knowledge of Informatica preferred
+Knowledge of Snowflake preferred
+Excellent ability to build processes supporting data transformation, data structures, metadata, dependency and workload management
+Strong ability to manipulate, process and extract value from large disconnected datasets
+Excellent verbal and written communication skills
+Strong attention to detail, organizational and multi-tasking skills required with the ability to adapt to changing priorities
+Ability to maintain confidentiality
+Our employment practices are in accord with the laws which prohibit discrimination due to race, color, creed, sex, sexual orientation, gender identity, genetic information, religion, age, national origin or ancestry, physical or mental disability, medical condition, veteran status, citizenship status, marital status or any other consideration made unlawful by federal, state, or local laws.
+All of our locations are tobacco free including in company vehicles.",3.8,"EMC Insurance
+3.8","Des Moines, IA",1001 to 5000 Employees,1911,Unknown,Insurance Carriers,Insurance,$25 to $50 million (USD),0,0,"EMC Insurance
+",72,136,104.0, IA,110,1,0,0,1,1
+RESEARCH SCIENTIST -LC/MS,$33K - $62K (Glassdoor est.),"JOB DESCRIPTION
+Title: Research Scientist
+Department: Chromatographic Sciences
+Location: Richmond, Virginia
+*This is an immediate opening with full benefits and relocation assistance!*
+PPD is a leading global contract research organization providing comprehensive, integrated drug development, laboratory and lifecycle management services. At PPD, we are passionate, deliberate, and driven by our purpose- to improve health!
+
+Envision a workplace where you have a direct impact on improving health, work alongside expert scientists, use newest technologies and collaborate with industry thought leaders and therapeutic experts. Welcome to PPD® Laboratories, where science is our passion, quality is our commitment and people are the cornerstone of our success.
+
+As a Research Scientist you will conduct and provide technical guidance on scientific method development and validation projects and/or other specialty technologies studies OR perform troubleshooting for your own and others instruments, methods, procedures, and in writie protocols and reports.
+
+At PPD we hire the best, develop ourselves and each other, and recognize the power of being one team. We offer continued career advancement opportunities, award winning training and benefits focused on the health and wellbeing of our employees.
+
+Summarized Purpose:
+Conducts and provides technical guidance on scientific method development and validation projects and/or other specialty technologies studies OR performs troubleshooting for own and others instruments, methods, procedures, and in writing protocols and reports. Designs and executes method development/validation and/or extractable/leachable studies independently and interprets and reviews analytical data for self and others OR designs and executes multiple stability and inhalation procedures as well as assists others in performing routine maintenance and troubleshooting on multiple instruments (LC/MS, HPLC, GC, UPLC, ICP-MS, GC/MS etc.) and multiple detection techniques (UV, FL, CAD, ELSD, IC etc.), methods and procedures. Routinely acts as the technical project leader for multiple projects, provide updates, reviews and evaluates data, writes reports and protocols.
+
+Essential Functions:
+
+Independently performs analytical method development/optimization/validation using LC/MS, and/or other specialty technologies studies OR method transfers for pharmaceutical and biopharmaceutical compounds or equivalent levels of expertise and experience in mass spectrometetry or other related areas such as structural elucidation or extractable leachable testing in a variety of formulations and/or delivery systems. Designs and executes experiments independently for self and others.
+Writes, reviews and critiques study protocols, project status reports, final study reports and other project-related technical documents.
+Leads analytical (procedural and instrumental) troubleshooting sessions.
+Assists business development group in technical sales and marketing, and presents posters at technical conferences.
+Leads in preparation and implementation of SOPs and quality systems, as well as developing innovative technology and in evaluating and implementing new capabilities.
+Reviews, interprets, and analyzes data for technical, quality and compliance to protocols, methods, SOPs, client criteria and Good Manufacturing Practices (GMP) or Good Laboratory Practices (GLP). Performs self and peer review of the data for accuracy and compliance with reporting requirements prior to submission to QA and issuance to customers.
+#LI-AP1
+PPDLABS
+Job Qualification
+
+Education and Experience:
+Bachelor's degree or equivalent and relevant formal academic / vocational qualification
+Previous experience that provides the knowledge, skills, and abilities to perform the job (Bachelors plus 8+ years, Masters plus 6 years, PhD plus 4 years).
+
+
+Knowledge, Skills and Abilities:
+Intermediate knowledge of general chemistry and separation science
+Extensive, hands on experience with LC/MS techniques
+Full understanding of laboratory requirements, SOPs, ICH guidelines, USP requirements and FDA guidance
+Full knowledge of technical operating systems
+Ability to independently optimize analytical methods
+Ability to independently perform root cause analysis for method investigations
+Proven technical writing skills
+Proven problem solving and troubleshooting abilities
+Effective written and oral communication skills as well as presentation skills
+Time management and project management skills
+Ability to mentor others on technical operating systems
+Ability to independently review and understand project proposals/plans
+Ability to work in a collaborative work environment with a team
+Working Environment:
+PPD values the health and wellbeing of our employees. We support and encourage individuals to create a healthy and balanced environment where they can thrive. Below is listed the working environment/requirements for this role:
+Able to communicate, receive, and understand information and ideas with diverse groups of people in a comprehensible and reasonable manner.
+Able to work upright and stationary and/or standing for typical working hours.
+Able to lift and move objects up to 25 pounds
+Able to work in non-traditional work environments.
+Able to use and learn standard office equipment and technology with proficiency.
+May have exposure to potentially hazardous elements, including infectious agents, typically found in healthcare or laboratory environments.
+Able to perform successfully under pressure while prioritizing and handling multiple projects or activities.
+
+
+PPD Defining Principles:
+- We have a strong will to win - We earn our customer’s trust - We are gamechangers - We do the right thing -We are one PPD -
+
+If you resonate with our five principles above, and ultimately wish to accelerate the delivery of safe and effective therapeutics for some of the world’s most urgent health needs, then please submit your application – we’d love to hear from you
+
+Diversity Statement
+PPD is proud to be an affirmative action employer that values diversity as a strength and fosters an environment of mutual respect. PPD is committed to providing equal employment opportunities without regard to age, race, color, pregnancy, national origin, religion, sex, gender identity, sexual orientation, disability, veteran status or status within any other protected group.",3.9,"PPD
+3.9","Richmond, VA",10000+ Employees,1985,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),0,0,"PPD
+",33,62,47.5, VA,36,0,0,0,0,0
+Data Scientist,$76K - $111K (Glassdoor est.),"At Varen, our performance is measured by the success of our clients, and our reputation for service, superior quality, objectivity, integrity and results. Our reputation is everything to us as we are committed to being a trusted adviser to our nations decision makers in a day in age that demands acute attention to detail in a fast-paced environment. Varen is seeking to add the sharpest technical professionals who share our passion for ensuring the mission success of our customers at all times.
+
+Data Scientist
+
+Description:
+
+
+A data scientist will develop machine learning, data mining, statistical and graph-based algorithms to analyze and make sense of data sets; prototype or consider several algorithms and decide upon final model based on suitable performance metrics; build models or develop experiments to generate data when training or example data sets are unavailable; generate reports and visualizations that summarize data sets and provide data-driven insights to customers; partner with subject matter experts to translate manual data analysis into automated analytics; implement prototype algorithms within production frameworks for integration into analyst workflows.
+
+Data Scientist shall possess the following capabilities:
+Produce data visualizations that provide insight into data set structure and meaning
+Work with subject matters experts (SMEs) to identify important information in raw data and develop scripts that extract this information from a variety of data formats (e.g., SQL tables, structured metadata, network logs)
+Incorporate SME input into feature vectors suitable for analytic development and testing
+Translate customer qualitative analysis process and goals into quantitative formulations that are coded into software prototypes
+Develop and implement statistical, machine learning, and heuristic techniques to create descriptive, predictive, and prescriptive analytics
+Develop statistical tests to make data-driven recommendations and decisions
+Develop experiments to collect data or models to simulate data when required data are unavailable
+Develop feature vectors for input into machine learning algorithms
+Identify the most appropriate algorithm for a given data set and tune input and model parameters
+Evaluate and validate the performance of analytics using standard techniques and metrics (e.g. cross validation, ROC curves, confusion matrices)
+Oversee the development of individual analytic efforts and guide team in analytic development process
+Guide analytic development toward solutions that can scale to large data sets
+Partner with software engineers and cloud developers to develop production analytics
+Develop and train machine learning systems based on statistical analysis of data characteristics to support mission automation
+Clearance Requirement:
+
+
+TS/SCI w/poly
+
+Varen Technologies, Inc. is an Equal Opportunity Employer and applicants receive lawful consideration for employment without regard to race, religion, color, gender, age, national origin, disability, or veteran status.",4.2,"Varen Technologies
+4.2","Annapolis Junction, MD",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),0,0,"Varen Technologies
+",76,111,93.5, MD,16,0,0,0,0,0
+Senior Data Scientist,$77K - $127K (Glassdoor est.),"Primary Location: 6305 Peachtree Dunwoody Rd, Atlanta, GA, USA
+Division: Cox Communications Inc
+Job Level: Individual Contributor
+Travel: Yes, 5 % of the Time
+Schedule: Full-time
+Shift: Day Job
+Requisition Number: 207869
+Cox Communications is looking for a Senior Data Scientist to join the Data Science team within the Analytics Center of Excellence. This role will be responsible for advanced analytics solutions design and implementations. The Senior Data Scientist is required to be a proven advanced analytics developer to drive solution delivery at scale.
+
+Responsibilities:
+Design, implement, test, prototype, and deploy ML (machine learning), DP (deep learning), AI (artificial intelligence), and NLP (natural language processing) applications to produce value from Cox Communications’ unstructured and structured data assets
+Guide junior resources in the Data Science team
+Identify opportunities for automation, knowledge discovery, decision-making, insights, optimization, and new capabilities
+Develop frameworks and apply best practices to mature analytics solutions from proof of concept to prototype to production
+Prepare documentation, reports, and visualizations
+Evaluate new technologies, tools, and data
+Keep up-to-date on new technologies, standards and practices
+Qualifications:
+Minimum:
+3+ years of experience in advanced analytics role in ML, AI, NLP, research, predictive analytics or similar area
+Strong programming skills and ability to utilize a variety of data/analytic software/languages/tools; e.g., Spark (ML, Mllib, Spark SQL), R (caret, ggplot2), Python (pandas, numpy, scipy, scikit-learn), Scala, Java, C++, Hive, SQL, SAS, Tableau, etc.
+Expertise in at least one of the machine learning and deep learning frameworks including TensorFlow, Keras, Caffe, MXNet, Spark. Experience with writing complex programs and building custom algorithms in these and/or other environments
+Deep knowledge of the mathematical and computational concepts behind advanced analytics algorithms
+Experience using cloud computing to build analytics applications and enterprise level AI/ML solutions
+Strong communication skills. The ability to successfully comprehend and communicate advanced analytics artifacts, business insights, and resulting implications to non-technical business partners. Ability to work in a diverse team
+Preferred:
+Graduate degree in Data Science, Machine Learning, Statistics, Mathematics, Computer Science, Operations Research, Analytics, Engineering or closely related field. Ph.D. strongly preferred
+Practical experience applying advanced ML, DP, and AI approaches to mass transaction reduction and customer experience optimization
+Experience within telecommunications, cable industry, high tech, or consulting
+Experience in data visualization solutions and data visualization too
+
+
+
+Who We Are
+About Cox Communications
+Cox Communications is committed to creating meaningful moments of human connection through broadband applications and services. The largest private telecom company in America, we proudly serve six million homes and businesses across 18 states. We're dedicated to empowering others to build a better future and celebrate diverse products, people, suppliers, communities and the characteristics that makes each one unique.
+About Cox
+We are the Cox family of businesses. We’ve been making our mark since 1898 by building and evolving world-class businesses, staying true to our values, and encouraging top talent to always look for growth and impact while building a career with us. Our primary divisions – Cox Communications and Cox Automotive – are driving a new wave of innovation, powering smart cities with powerhouse broadband communications and pioneering greener, more progressive transportation alternatives for individuals and fleet operators. We’re also expanding into new spaces like cleantech and healthcare to rev up our momentum toward building a better future for the next generation. We’re looking for the talent today who will be our leaders tomorrow. Sound intriguing? Learn more about where we are today, where we hope you’ll be going with us, and the common purpose that unites us at coxenterprises.com.
+Cox is an Equal Employment Opportunity employer - All qualified applicants/employees will receive consideration for employment without regard to that individual’s age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.
+Statement to ALL Third-Party Agencies and Similar Organizations: Cox accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.",3.9,"Cox Communications Inc
+3.9","Atlanta, GA",10000+ Employees,1962,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),0,0,"Cox Communications Inc
+",77,127,102.0, GA,59,1,0,1,0,1
+Data Analyst,$40K - $71K (Glassdoor est.),"Talascend is currently seeking qualified applicants for a Data Analyst located in Fairfield, OH.
+OVERVIEW: The Data Analyst is responsible for data entry and maintenance for integrating and uploading data into the SAP environment. As part of the Data team, this position is responsible for the accurate entry of data into SAP. The Data team is responsible for the efficient and effective management of part number master data. This will require an individual with good attention to detail, intermediate to advanced computer skills and ability to develop processes documents.
+RESPONSIBILITIES:
+Managing product information levels to established standards
+Maintain data to meet company standards and quality of information
+Data includes images, technical specifications and other data elements
+Manually populate non-automated data as necessary Identify system enhancements to improve processes
+Perform audits to ensure accuracy of assigned manufacturers or categories
+Communicate with data providers to ensure complete product data is supplied
+Request necessary information
+Identify areas of improvement and provide feedback
+Ensure materials are created correctly via download process
+Create materials via proprietary systems and/or SAP
+Process internal requests for creation
+REQUIREMENTS:
+Associates degree or above from a college or university; or 3 years industry work experience.
+Intermediate to advanced spreadsheet skills
+Ability to analyze and troubleshoot information for resolution
+Ability to work well in cross-functional teams
+Ability to multi-task in a fast-paced environment
+Assisting in establishing best-practices and development of content that improve the efficiency
+Ability to meet aggressive service-level agreements
+Ability to take a complex process or technology and create easy-to-follow copy
+Excellent written and verbal communication, with strong editing skills
+Proficiency with MS Word, Excel, Outlook and SAP
+Ability to effectively present information and respond to questions from groups
+Ability to understand processes and identify areas of improvement
+Ability to multi-task and demonstrate organizational details
+
+#ind123
+We thank all applicants for their interest. However, only those qualified individuals who closely meet the qualifications of the position will be contacted. The details of the position are only a summary, other duties may be assigned as necessary.
+Background Check and Drug Screen may be required.
+Talascend is an Equal Opportunity Employer that recruits and hires qualified candidates without regard to race, religion, sex, sexual orientation, gender identity, age, national origin, ancestry, citizenship, disability, or veteran status.",3.2,"Talascend LLC
+3.2","Fairfield, OH",51 to 200 Employees,1946,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),0,0,"Talascend LLC
+",40,71,55.5, OH,75,0,0,0,0,1
+Data Scientist,$94K - $155K (Glassdoor est.),"When you’re the best, we’re the best. We instill an environment where employees feel engaged, satisfied and able to contribute their unique skills and talents. We provide extensive opportunities for personal and professional development, building both employee competence and organizational capability to fuel exceptional performance now and in the future.
+Summary:
+In this role, you will conduct sophisticated data analysis to help address critical business and member questions, the outputs of which enable members to drive improvements in clinical, operational, and economic outcomes.
+Responsibilities:
+Provide analysis to identify critical issues/questions around member performance.
+Conduct exploratory data analysis from complex, disparate data sources to recognize patterns, and identify member performance improvement opportunities.
+Generate hypotheses and analyze data to test and interpret results.
+Design and develop data models to predict member outcomes or future impact of key member decisions.
+Communicate findings from exploratory and predictive data analysis broadly to team and leaders.
+Identify improvement opportunities in reporting and BI tools and collaborate with Products Technology to implement enhancements.
+Serve as the resident data expert and share best practices/approaches for statistics, machine learning techniques, data modeling, simulation and advanced mathematics.
+Collaborate with key leaders and clinicians to build analytical acumen across all analytic roles in the organization.
+Qualifications:
+Relevant degree preferred. Advanced degree a plus.
+5 or more years of relevant work experience.
+Proficient programming experience using SAS/Python/R.
+Demonstrated ability to manage large disparate data sets and using quantitative and qualitative analysis.
+Experience effectively communicating and presenting data to a variety of audiences required.
+Experience working with health care administrative claims data (ICD-10, MS-DRG, CPT/HCPCS) or electronic medical record data tools (Epic Clarity/Caboodle, Cerner CCL-Discern/PowerInsight) required.
+#LI-DM
+#IDS
+Equal Opportunity Employer: Females/Minorities/Veterans/Individuals with Disabilities
+The Company is committed to equal employment opportunity to all employees and applicants without regard to race, religion, color, gender identity, ethnicity, age, national origin, sexual orientation, disability status, veteran status or any other category protected by applicable law.",4.1,"Vizient, Inc.
+4.1","Chicago, IL",1001 to 5000 Employees,1977,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,"Vizient, Inc.
+",94,155,124.5, IL,44,1,0,0,0,0
+Data Scientist I,$79K - $133K (Glassdoor est.),"Job Description:
+Knowesis - Interesting Work with Interesting People
+Knowesis, Inc. has been providing data-driven decisions and solutions to our federal clients since 2007. Our highly qualified, customer-focused professionals are committed to providing information and advice to enable client success through holistic, thorough, thoughtful, and aligned approaches. Our clients leverage these capabilities to support their key business functions.
+Knowesis is looking for a Data Scientist I to support the United States Special Operations Command Preservation of the Force and Family (USSOCOM POTFF) program. The Data Scientist I will help in identifying and implementing innovative, valuable solutions across the Special Operations Forces (SOF) enterprise aimed at improving the short and long-term well-being of SOF warriors and their families.
+This work will be performed at the client’s Hurlburt Field, FL, location.
+Operating in consultation with POTFF program staff and the Government’s POTFF biostatistician, the Data Scientist will:
+Enter, clean, and conduct basic data manipulation and analysis
+Build and disseminate databases and spreadsheets designed to record POTFF related programmatic data
+Provide consultation and assistance to supported units and POTFF staff to identify opportunities and methods for capturing data relating to POTFF programs and initiatives
+Prepare reports and presentations that accurately convey data trends and associated analysis
+Enter and analyze data within government systems
+
+Required Experience:
+Required Experience:
+Proficient with the suite of Microsoft Office programs, including Word, Excel, and Access
+Prior experience using statistical software application such as SPSS, SAS, and R
+Possess excellent communication skills and shall be highly detail-oriented.
+Education: Bachelor’s Degree in quantitative science, social science or related discipline
+Security Clearance: DoD Secret Security Clearance
+Location: Hurlburt Field, FL
+U.S. Citizenship Required
+Knowesis, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+From: Knowesis Inc.",4.5,"Knowesis Inc.
+4.5","Hurlburt Field, FL",51 to 200 Employees,2007,Company - Private,Consulting,Business Services,$25 to $50 million (USD),0,0,"Knowesis Inc.
+",79,133,106.0, FL,14,0,0,0,1,1
+Associate Staff Scientist,$40K - $86K (Glassdoor est.),"A world leader in the field of in vitro diagnostics for over 55 years, bioMérieux provides diagnostic solutions that detect disease and contamination to improve patient health and ensure consumer safety. bioMérieux’s global headquarters is located in Marcy L’Étoile, France, and we have more than 11,200 team members in 43 countries. With our distributor network, we serve more than 160 countries. bioMérieux, Inc., our Americas division, has more than 4,000 team members across 12 sites or subsidiaries. Our Americas headquarters is in Durham, NC, with nearly 1,200 team members. bioMérieux, Inc. sponsors public health initiatives and partnerships to address antimicrobial resistance, sepsis awareness, food safety, and consumer health. Our passionate team members recognize the power of diagnostics and rally behind our mission to help save lives.
+
+Position Summary:
+The Exploratory Microbiology team works and behaves with an entrepreneurial spirit to generate new product concepts for bioMérieux’s development pipeline. The Associate Staff Scientist’s responsibility will be to contribute technical and scientific expertise to the conceptualization, design and development of high quality medical diagnostic products.
+
+
+Main Accountabilities:
+Versatile, self-starter, with demonstrated ability to learn and work independently to reduce scientific and engineering principles to practice
+Strong and diverse scientific experience
+Works and plays a technical leadership role in a cross-functional, applied research environment
+Enjoys working hands-on in the laboratory
+Understands medical and customer needs
+Identifies and proposes potential product concepts, in consultation with marketing
+Designs comprehensive rationale to develop viable product concepts
+Ability to analyze data, draw sound conclusions and make recommendations
+Monitors scientific literature and stays current with advances in technology
+Contributes to scientific publications, including patents and publications in peer reviewed journals
+
+Required Skills and Qualifications:
+Degree in Molecular Biology, Biology, Chemistry, Biomedical Engineering or related field with:
+Ph.D. + 2 years of relevant experience
+M.S. + 3/5 years of relevant experience
+B.S. + 5/10 years of relevant experience
+Scientific curiosity, creativity and flexibility are the keys of success for this position
+High level of oral and written communication skills
+
+Desirable experience:
+Molecular biology including familiarity with a variety of nucleic acid detection techniques
+Knowledge of clinical microbiology
+Product development in a regulated environment
+Intellectual property
+
+Joining bioMérieux, is choosing to join an innovative company with a long term vision, committed to the service of public health and carried out with a humanistic corporate culture. Our Group offers numerous possibilities: so come and join the 11,200 bioMérieux team members who already identify with these values!
+bioMérieux is an Equal Opportunity, Affirmative Action Employer. M/F/Vet/Disability/Sexual Orientation/Gender Identity/GINA.
+
+BMXID
+
+
+Nearest Major Market: Durham
+Nearest Secondary Market: Raleigh",4.4,"Biomerieux
+4.4","Durham, NC",10000+ Employees,1963,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),0,0,"Biomerieux
+",40,86,63.0, NC,58,0,0,0,0,0
+Medical Lab Scientist MLS/MLT Eureka,$21 - $29 Per Hour(Glassdoor est.),"Position Summary:
+Under general supervision, performs diagnostic testing and related responsibilities including appropriate collection and
+preparation of specimens, working with infant/toddler, child/adolescent, adult and/or geriatric patients, performance of
+laboratory test procedures according to protocols using appropriate instrumentation, and evaluation of information
+taking appropriate action as needed without supervision. Demonstrates understanding of scientific theories and
+techniques of procedures performed.
+Qualifications:
+We will also consider Associates degree in Medical Lab Technology.
+
+
+Education:
+Bachelor degree and graduation from a Medical Technology/MLS program approved by the National Accrediting Agency for Clinical Laboratory Sciences (NAACLS) or an equivalent program, or documented equivalent education and training.
+
+Certification:
+MLS(ASCP), MT(ASCP), MT(AMT) with baccalaureate degree. ASCP Board of Certification (BOC)categorical certification (BB, C, CT, H, HTL, I, M) or a baccalaureate degree where categorical certification in specialty area is not available.
+Essential Functions:
+Consistently demonstrates competency in performing simple, moderate and/or complex analyses according to
+laboratory procedure and in accordance with manufacturer’s guidelines. Utilizes theory and principles of clinical
+methodology throughout the process.
+Records, reports and monitors all patient analysis data following proper documentation and procedures.
+Utilizes knowledge of LIS, HIS and appropriate software as they apply to the laboratory
+Prepares and/or handles all laboratory specimens, prioritzing and completing testing in a timely manner.
+Performs departmental and shift specific duties as required.
+Complies with requirements of CAP, Accrediting Organization and Clinical Laboratory Improvement Act (CLIA) and
+other regulatory agencies.
+Maintains a clean and safe work area. Follows established laboratory safety procedures in accordance with those of
+regulatory bodies such as CAP, Accrediting Organization, OSHA, FDA, EPA, and other regulatory agencies.
+Regularly displays unique problem solving skills to address department and/or customer needs or problems.
+Correlates various clinical laboratory test results, applies these results to clinical conditions and recognizes accepted
+normal ranges (20 %)
+Correlates various clinical laboratory test results; applies test results to clinical conditions and recognizes accepted
+normal ranges.
+Initiates follow-up procedures when patient results are outside normal range according to departmental policy.
+Applies the necessary principles to deliver quality outcomes which include Quality Control and Continuous Quality
+Improvement methods. (10 %)
+Performs, records, evaluates, and reports all QC data following established procedures which includes proper
+documentation.
+Monitors quality control programs, knows parameters and purpose of quality control and applies these within
+individual laboratory standards. Takes appropriate corrective action when necessary and documents.
+Performs validation and calibration of instruments under the direction of Department Supervisor/Designee.
+Looks for ways to improve processes and recommends solutions. Participates in quality improvement initiatives.
+Supports change initiatives. Is open to change at every opportunity.
+Participates in Advocate based initiatives and surveys including but not limited to Associate Satisfaction Survey,
+Culture of Safety Training, etc.
+Identification and resolution of technical problems related to laboratory methodology, instrumentation and procedures
+appropriately notifying Laboratory Director and/or Technical Supervisor as needed. (10 %)
+Evaluates problems and initiates troubleshooting relating to methodology including instrumentation and procedures
+appropriately notifying Section Supervisor as needed.
+Demonstrates understanding of the basic and complex principles and functions of laboratory instrumentation used.
+Performs required maintenance per protocol and procedures.
+Documents all maintenance and technical problems per established protocol.
+Participates in development and education (5 %)
+Teaches bench-level methodology and theory to new and existing associates and students.
+Evaluates and validates new methodology.
+Participates in interdepartmental cross-training as required.
+Independently seeks out oppotunities to learn and grow both interpersonally and functionally. Takes responsibility for
+keeping skills and knowledge in field up to date. Displays willingess and ability to learn and apply new skills. Holds self
+to high standards/expects the best of self.
+Participates in instructing personnel in the use of new and/or revised techniques.
+Mentors others in skill developments.
+Participates in laboratory projects as assigned to expand knowledge base.
+Assists with the maintenance and development of department policies and procedures. (5 %)
+Develops policies and procedures necessary to comply with laboratory technology, licensure and accreditation
+standards, as required.
+Develops and maintains procedure manuals, as appropriate.
+Maintains adequate inventory of supplies as required by the department. (5 %)
+Maintains daily supplies and work areas in accordance with protocol and department needs.
+Participates in ordering supplies as required according to hospital policies and procedures. Follows up on backorders,
+missing and incorrect orders.
+Assures that all supplies are marked with date received, are logged per department protocol, and appropriate labels
+applied. Stores supplies in a manner that maximizes product stability.
+Collects and processes blood specimens from patients in accordance with accepted laboratory standards and policies and
+procedures in order to ensure optimal specimen integrity and accurate test results. (5 %)
+Assure proper patient identification according to policy, utilizing a minimum of two identifiers.
+Perform phlebotomy using appropriate technique based on the physicial and psychosocial needs of the neonate,
+pediatric, adolescent, adult or geriatric patient.
+Appropriately label each specimen according to policy ensuring security of all specimens drawn.
+Process and receive all specimens efficiently and accurately according to policy and procedure.
+Register, accession, and label specimens in the LIS.
+Follow through with any specimen discrepancies to ensure timely processing and testing.
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.",4.0,"Carle
+4.0","Eureka, IL",5001 to 10000 Employees,1918,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),1,0,"Carle
+",21,29,25.0, IL,103,0,0,0,0,0
+Data Scientist,$83K - $135K (Glassdoor est.),"Data Scientist
+
+Language: English
+
+Location: Memphis, TN
+
+Travel: <10>
+
+Buckman is a privately held, global specialty chemical company with headquarters in Memphis, TN, USA, committed to safeguarding the environment, maintaining safety in the workplace, and promoting sustainable development. Buckman delivers exceptional service and innovative solutions to our customers globally in the pulp and paper, leather, and water treatment sectors to help boost productivity, reduce risk, improve product quality, and provide a measurable return on investment. Buckman is in the middle of a digital transformation of its businesses and focused on building the capabilities and tools in support of this.
+
+Position Summary
+Buckman is seeking an experienced Data Scientist to lead the development of a Data Science program at our Memphis facility. You will work closely with Buckman stakeholders to derive deep industry knowledge across paper, water, leather, and performance chemical industries. You will help develop a data strategy for the company including collection of the right data, creation of the data science project portfolio, partnering with external providers, and augmenting capabilities with additional internal hires. A large part of the job is communicating and developing relationship with key stakeholders and subject matter experts to tee up proofs of concept projects to demonstrate how data science can be used to solve old problems in unique and novel ways. You will not have a large internal team to rely on, at least initially, so individual expertise, breadth of data science knowledge, and ability to partner with external companies will be essential for success. In addition to the pure data science problems, you will be working closely with a multi-disciplinary team consisting of sensor scientists, software engineers, network engineers, mechanical/electrical engineers, and chemical engineers in the development, and deployment of IoT solutions. If you like working for an entrepreneurial company with a Sustainability mission and digital ambitions at the core of its strategy, Buckman is the place for you.
+
+Competencies Needed for Success
+Bachelor’s degree in a quantitative field such as Data Science, Statistics, Applied Mathematics, Physics, Engineering, or Computer Science
+5+ years of relevant working experience in an analytical role involving data extraction, analysis, and visualization
+Expertise in one or more programming languages R, Python, MATLAB, JMP, Minitab, Java, C++, Scala
+Key libraries such as Sklearn, XgBoost, GLMNet, Dplyr, ggplot, Rshiny
+Experience and knowledge of data mining algorithms including supervised and unsupervised machine learning techniques areas such as Gradient Boosting, Decision Trees, Multivariate Regressions, Logistic regressions, Neural Network, Random Forest, Support Vector Machine, Naive Bayes, Time Series, Optimization
+Microsoft IoT/data science toolkit: Azure Machine Learning, Datalake, Datalake analytics, Workbench, IoT Hub, Stream Analytics, CosmosDB, Time Series Insights, PowerBI
+Data querying languages (e.g. SQL, Hadoop/Hive) and Preferred Qualifications
+A demonstrated record of success with a verifiable portfolio of problems tackled
+Preferred Qualifications
+Master’s or PhD degree in a quantitative field such as Data Science, Statistics, Applied Mathematics, Physics, Engineering, or Computer Science
+Experience in the specialty chemicals sector or similar industry
+Background in engineering, especially Chemical Engineering
+Experience starting up a data science program
+Experience working with global stakeholders
+Experience working in a start-up environment, preferably in an IoT company
+Knowledge in quantitative modeling tools and statistical analysis",3.8,"Buckman
+3.8","Memphis, TN",1001 to 5000 Employees,1945,Company - Private,Chemical Manufacturing,Manufacturing,$500 million to $1 billion (USD),0,0,"Buckman
+",83,135,109.0, TN,76,1,0,0,0,0
+Sensory Scientist (Descriptive Analysis),$32K - $75K (Glassdoor est.),"Sensory Scientist (Descriptive Analysis) - Chicago, IL
+
+At Curion, we are embarking on a period of great transition and growth driven by increased efficiency and productivity. The Sensory Scientist sits on-site with one of our Partnership Solution clients in Chicago and is responsible for the daily management of Descriptive Analysis (DA) panel(s) including supervision of panelists, leading training of panelists, planning of studies, study design and execution, data analysis and reporting. This position serves as a key client contact for DA projects.
+
+Primary Responsibilities:
+Daily management of DA panel(s) including panel supervision, panel training, panel monitoring and panel motivation
+Planning of DA studies, study design, and execution
+Data analysis and reporting of results
+Support special analysis requests/projects per client
+Lab and supply maintenance
+Assist in sample preparation and execution of consumer studies as needed
+Other duties may be assigned as dictated by business necessity
+Qualifications:
+Bachelors degree in Food Science or Sensory Science preferred
+1-3 years of experience in sensory setting is required
+Prior people management experience is preferred
+Experience in Descriptive Analysis including full profiles, panelist motivational issues, panelist training, panel monitoring, etc. is required
+Willing to undergo sensory acuity screening
+Willing to participate in product tastings/cutting as necessary including gum and confectionary products (chewy candy, gummy candy, hard candy, etc.)
+Ability to work independently
+Strong interpersonal skills with the ability to communicate details (both verbal and written) to the client in a professional manner
+Excellent organization skills and the ability to multitask
+Team player
+Willing and able to work flexible hours, including some evenings if needed
+Willing to follow all lab Good Manufacturing Practices
+Ability to follow instructions accurately
+Proficient at using analytical balance to weigh out samples and ingredients
+Working knowledge of Microsoft Word, Excel & Outlook is required
+Knowledge of Compusense and/or EyeQuestion sensory software is a plus
+Physical Demands:
+Must be able to stand for for long periods of time
+Work also involves walking, reaching, using a keyboard, repetitive motion and moving, lifting or pushing objects weighing up to 25 pounds
+Due to exposure to various food allergens in the testing environment (including but not limited to dairy products, eggs, peanuts, tree nuts, soy, wheat, sulfites, chocolate, fruit, natural or artificial sweeteners (like aspartame or Phenylalanine), natural or artificial colors, gluten, fish and shellfish), applicants with moderate to severe food allergies are discouraged from applying
+
+About the company:
+
+Curion is a leader in sensory and consumer product research and serves Fortune 500 and other blue-chip customers in the food & beverage, personal care, fine fragrance, and home & fabric care industries. In 2019 alone, the company tested 127,000 consumers in its facilities in San Francisco, Chicago, Dallas, and New York metropolitan areas. Curion's insights provide data such as: product readiness for launch, consumer purchase decision process, competitive landscape and more to its clients. The result of a merger between Q Research Solutions and Tragon Corp., Curion brings a wealth of knowledge and experience to the consumer and sensory science industry. The company pioneered many of the sensory methodologies considered industry standards today, including Quantitative Descriptive Analysis (QDA)® and Partnership Solutions (PS).
+
+Curion is committed to equal opportunity in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, disability or veteran status.",4.0,"Curion
+4.0","Chicago, IL",51 to 200 Employees,-1,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,0,0,"Curion
+",32,75,53.5, IL,-1,0,0,0,0,1
+Sr. Scientist,$60K - $122K (Glassdoor est.),"Description:
+JOB SUMMARY
+Contribute to the overall success of GRAM’s analytical operations on behalf of our customers through contributing to an efficient Analytical Chemistry group in order to develop and transfer drugs into the GRAM facility. This role is responsible to create and oversee various studies including troubleshooting and problem solving for customer products. The individual will develop, transfer and validate analytical methods to support clinical and commercial manufacturing of sterile drug products.
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+Provide expertise in chromatography and spectrometry.
+Solve complex analytical problems as well as recommend/implement continuous laboratory improvements.
+Provide expertise in ICH Stability and test method development and validation.
+Provide expertise in USP analytical method requirements.
+Participate in discussions and recommend capital equipment investments for the department.
+Deliver on departmental strategy through innovation, use of automation, and efficiency.
+Work effectively in a team to achieve goals.
+Communicate effectively in written and oral form. Write detailed scientific reports with full experimental details and give proper presentations.
+Maintain clear, detailed, and up-to-date laboratory notebooks according to internal policies.
+Follow safe laboratory practices and comply with EHS, safety officers, and delegates to ensure that the laboratory is a safe environment. Recognizes potential safety issues, discusses them with EHS and management, and takes action to rectify them.
+Assume responsibility for laboratory equipment, ensure equipment is properly maintained and serviced.
+Work closely with Manufacturing, Quality Assurance, Quality Control, Project Management, and Business Development.
+Open to a flexible and fluid work environment.
+Support Agency, customer and vendor audits as needed.
+Responsible for exhibiting professional behavior with both internal/external business associates that reflects positively on the company and is consistent with the company's policies and practices.
+Perform all other tasks, projects, and duties as assigned.
+. Requirements:
+DESIRED SKILLS AND ABILITIES
+Advanced analytical chemistry skills (understanding, use, interpretation, and troubleshooting of HPLC, GC, FTIR, and UV).
+Extensive knowledge and hands-on experience of drug formulation, and analytical validation for parenteral dosages.
+Strong science and reasoning skills. The ability to plan, execute, critically interpret, and track the results from a logical progression of experiments in order to efficiently obtain definitive results.
+Demonstrated ability to design and execute experiments using different laboratory instruments independently and author summary reports.
+Understanding of pharmaceutical manufacturing and analytical labs in regulated environments under FDA, ICH, and EMA guidelines.
+Ability to work with a diverse customer base.
+Strong attention to detail; Ability to complete tasks with accuracy and efficiency.
+Portrays appropriate levels of integrity and professionalism.
+Capable of being the project lead for the Analytical Technical Services team
+Excellent written and verbal skills; Ability to communicate effectively with clients, management and staff by exhibiting excellent interpersonal skills.
+Energetic, self-motivated, organized individual who is accustomed to working in a deadline-focused, high-pressure entrepreneurial environment.
+Results oriented and efficient; Acts with a sense of urgency.
+Creative and open-minded individual who fosters an environment in which sharing of ideas is encouraged.
+A Leader who is capable of training and overseeing other team members as necessary.
+Demonstrates confidence in decision making ability and makes decisions while assessing risks.
+Takes accountability and ownership.
+Ability to work well independently and in a cross-functional team environment. Efficient team management skills.
+Must have proficient computer skills in Microsoft Word, Excel and Outlook, Chromatographic Data Systems, and Document Management Systems.
+Must be able to communicate in a professional manner with clients and regulatory agencies.
+Qualified candidates possess a Ph.D. in Analytical Chemistry or closely related field with 5-10 years’ experience, or M.S. in Analytical Chemistry or closely related field with 7-12 years’ experience, knowledge of GLP and cGMP, and direct work experience in a laboratory environment. Equipment qualification/validation experience not required, but preferred",3.6,"Grand River Aseptic Manufacturing
+3.6","Grand Rapids, MI",51 to 200 Employees,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Less than $1 million (USD),0,0,"Grand River Aseptic Manufacturing
+",60,122,91.0, MI,-1,0,0,0,0,1
+Physical Scientist,$34K - $64K (Glassdoor est.),"Job Description
+ENSCO Inc.’s National Security Solutions (NSS) Division is seeking a Physical Scientist. If you're eager to kick off your career and solve real problems in today's world, then this is the opportunity you've been looking for! Join our team of highly talented engineers and scientists while we provide innovative products and services vital to national safety and security. NSS develops cutting-edge solutions to unique and challenging technical problems, in complex operational constraints.
+Qualifications Required (Skills)
+BS degree in Physical Science or related discipline (Geophysics, Physics, Mathematics, Engineering, Computer Science) or equivalent
+Minimum 3 years of relevant experience
+Knowledge of and experience in digital signal processing
+Knowledge of and experience in data acquisition and test development
+Experience in algorithm development
+Experience working with multiple sensor types, that may include seismic, acoustic, acceleration and electromagnetic sensors
+Experience analyzing large datasets from various sensors
+Interest and experience in Artificial Intelligence (AI) and Machine Learning
+Analytical and thorough problem solving
+Excellent oral and written communication skills
+Scientific programming language skills including MATLAB, LabVIEW, Python, and C
+Excellent time management and organizational skills
+Ability to work well in dynamic groups, and achieve overall program objectives
+Must be able to lift 50 lbs.
+Must be willing to travel and perform field work.
+MUST HAVE A CURRENT SECRET SECURITY CLEARANCE WITH THE ABILITY TO OBTAIN TOP SECRET/SCI, FOR WHICH YOU MUST BE A U.S. CITIZEN. YOU WILL NOT BE CONSIDERED FOR THIS POSITION IF YOU DO NOT MEET THIS REQUIREMENT.
+Qualifications Desired
+MS degree in Physical Science or related discipline (Geophysics, Physics, Mathematics, Engineering, Computer Science) or equivalent
+Knowledge of Ground Penetrating Radar systems and theory
+Experience in artificial intelligence, machine learning and data analytics
+Experience in developing test procedures and writing technical reports
+Experience with data fusion
+Knowledge of and experience in geophysics
+
+#LI-KM1
+Req ID
+2124BR
+Internal Position Title
+Scientist III
+Employment Status
+Regular Full-time
+General Education/Years of Experience
+BS or equiv; min 3 yrs relevant exp
+U.S. Citizenship
+Yes
+Background Check Type
+7 year
+Drug Screen Type
+None
+Export Control and Licensing
+None
+Contract Award Contingency
+No
+Recruiter
+Kierra McDonald
+Benefit Highlights
+Annual education tuition reimbursement
+401(k) Plan with 2.5% dollar-for-dollar company match in first year of employment, and up to 6% company match thereafter
+Medical, dental and vision insurance
+Spending Accounts – FSA, Dependent Care FSA, and HSA
+Leave available for holidays, bereavement, jury duty, military service, family medical leave, and as required by State law
+Paid Time Off
+100% Company paid Employee Assistance Program and life, disability, accidental death and dismemberment, business travel accident, and professional liability insurance (employee only)
+Other voluntary programs, including supplemental life, auto and home insurance, and legal program
+Computer purchase discount
+Recognition and reward programs
+Patent awards
+Technical paper awards for presentations and publications
+Recruitment awards
+Length of service awards
+Community service recognition
+Division Description
+The National Security Solutions (NSS) Division focuses on solutions for the toughest problems in defense, intelligence, and homeland security missions. NSS employees leverage a multi-disciplinary team approach to these challenging scientific and technical problems in complex operational environments. Our areas of expertise include sensor development and integration; radio frequency, cyber, and position, navigation, and timing systems; counter-weapons of mass destruction capabilities including chemical and biological, geophysical phenomenology; modeling, and simulation. We use the latest technology in our work, including artificial intelligence, machine learning, data science, high performance computing, digital signal processing, and advanced hardware and software development.
+Strength in Diversity
+ENSCO, Inc. and its wholly owned U.S. subsidiaries are equal opportunity/affirmative action employers, committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, disability, or protected veteran status, or any other protected characteristic under state or local law.",3.7,"ENSCO, Inc.
+3.7","Springfield, MA",501 to 1000 Employees,1969,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),0,0,"ENSCO, Inc.
+",34,64,49.0, MA,52,1,0,0,0,1
+Associate Food Scientist,$35K - $59K (Glassdoor est.),"Company Description
+Stratas Foods LLC is the leading supplier of fats and oils to the Foodservice, Food Ingredients and Retail Private Label markets in North America and is a producer of quality bulk and packaged dressings, mayonnaise and sauces. Stratas Foods was formed in October 2008 as a 50/50 joint venture between ACH Food Companies (ACH) and Archer Daniels Midland (ADM).
+Manufacturing facilities are located in Dallas and Houston, TX; Decatur and Quincy, IL; Englewood, NJ; Fresno, CA; Nashville, TN; and Valdosta, GA. Corporate offices are located in Memphis, TN. We are committed to maintaining a progressive workplace by utilizing the ideas, skills and talents of all of our employees. We strive to make Stratas Foods a great place to work and are building a team capable of meeting our business goals.
+
+Job Description
+The Associate Scientist role exists to provide support to the Research, Development and Innovation (RDI strategy of executing a program based on connectivity and T.I.M.E. to achieve industry leading innovation and technology support.
+The Associate Food Scientist role is an entry level Product Development position to support basic product development initiatives, application testing and participation in internal/external technical training sessions.
+Associate Food Scientist Key responsibilities: Product Development, Technical Support & Service, Bakery and/or Culinary Applications Testing / Development, Product Specifications, Product Improvements / Cost Savings, Competitive Audits, and Provides Technical Support Outside of the Application Area as Needed / Assigned.
+1. Product Development – under direction of mentoring Sr. Scientist provide support across all assigned STRATAS driven product development initiatives from bench blends through pilot plant scale up. Confirm accuracy and quality via analytical testing. Maintain records in lab notebook.
+2. Technical Support & Service – participate in development/execution of internal & external technical training sessions. Assist in trouble shooting and complaint resolution.
+3. Application Testing/Development – assist in execution of studies to evaluate impact of emerging technologies and IP oils on product stability and functionality. Maintain accurate records. Issue final report of key discoveries/conclusions.
+4. Product Specifications – ensure formulations, specifications and data sheets are accurate and up-to-date for application area
+5. Product Improvements/Cost Savings – support cost savings and/or enhanced performance projects as assigned
+6. Competitive Audits – participate in periodic audits of competitive product, as assigned, to identify developmental gaps and product improvement opportunities.
+7. Provide technical support outside of application area as needed/assigned.
+
+Qualifications
+Education: BS/MS/PhD Food Science or related field, certified baker or culinary chef also strongly considered
+Related Experience: 0 - 2 years Product Development experience
+Equipment/Software Skills: Word, Excel, Power Point, Outlook
+Competencies:
+Technical Skills – bakery and/or pastry chef experience with a solid food science background, strong command of ingredients/functionality. Basic knowledge of fats & oils chemistry and processing. Knowledge of experimental design.
+Judgment – decisive, exhibits sound and accurate judgment
+Strategic Thinking – displays critical thinking skills, proactive in decision making and makes data based decisions
+
+Additional Information
+Physical: The employee is occasionally required to stand and walk. The employee must occasionally lift and/or move up to 50 pounds. The employee is required to travel (approximately 15-20% of the employee’s time).
+Sensory: .The employee is regularly required to talk or hear. The employee is required to use hand and fingers, handle, and or feel and taste or smell. Specific vision abilities required by this job include close vision.
+Mental/Reasoning: Ability to read, analyze and interpret the most complex documents. Ability to respond effectively to the most sensitive inquiries or complaints. Ability to make effective and persuasive speeches and presentations on controversial or complex topics to top management, public groups, and and/or board of directors. Ability to define problems, collects data, establish facts and draw valid conclusions",3.2,"Stratas Foods
+3.2","Cordova, TN",501 to 1000 Employees,2008,Company - Private,Food & Beverage Manufacturing,Manufacturing,$500 million to $1 billion (USD),0,0,"Stratas Foods
+",35,59,47.0, TN,13,0,0,0,0,1
+Senior Data Scientist,$101K - $162K (Glassdoor est.),"Primary Location: 3003 Summit Blvd, Atlanta, GA, USA
+Division: Cox Automotive
+Job Level: Individual Contributor
+Travel: No
+Schedule: Full-time
+Shift: Day Job
+Requisition Number: 207227
+Cox Automotive, a subsidiary of Cox Enterprises, is seeking a Senior Data Scientist to join our talented team in Atlanta, GA.
+
+Have you worked on innovative product experiences? Are you looking to change an entire industry by solving key consumer problems and delivering connected client experiences for car dealerships everywhere? We are looking for someone with Automotive retail experience who knows what it takes to make our online digital transaction be as easy as having your groceries delivered to your door.
+
+Our data scientists are responsible for leading the development of advanced analytical models to solve our customers’ problems, improve our products and services, and inform internal business operations and strategy. You will work closely with business stakeholders as the subject matter expert on the application of statistics and modeling across multiple leading digital automotive brands.
+
+Day to day, you will:
+Anticipate future business needs and identify appropriate opportunities for modeling, simulation, or machine learning
+Gather and analyze data to solve and address highly complex business problems, make predictions on future outcomes, and provide prescriptive solutions that support decision making
+Be involved in all phases of analytics projects including question formulation, research, development, implementation, testing, and maintenance
+Explore data and build advanced analytical models, then present and discuss the resulting models to any level of audience
+
+Cox Enterprises is a family-run operation that began nearly 120 years ago. As part of this great family business, we treat our team members and clients like they’re just that — family. This atmosphere has been instrumental to our success and has shaped our willingness to fuel epic innovation, drive unprecedented growth and deliver the mind-blowing, needle-moving, connected experience we promise.
+
+Cox Automotive is transforming the way the world buys, sells, owns and uses cars. Come join the transformation!
+
+Technology We Use:
+Python, R, SQL, AWS
+
+Primary Responsibilities and Essential Functions:
+Under the direction of senior team members, interpret and develop solutions to business problems using different techniques, such as statistics, optimization tools, machine learning techniques, and other methods.
+Contribute to all phases of an analytics project, including formulation, research, development, implementation, testing, and maintenance.
+Interpret and communicate analytic results to analytical and non-analytical business partners and executive decision-makers.
+Maintain an awareness of trends in the field and research and suggest new methodologies.
+Qualifications:
+Required Experience (minimum):
+Strong problem-solving skills with an emphasis on product development
+A drive to learn and master new technologies and techniques
+Proven experience applying descriptive and predictive statistics and statistical inference to real-world problems
+An understanding of one or more of the following:
+Statistics: Generalized linear models, time series models, and forecasting techniques
+Machine Learning: Common supervised and unsupervised ML models, including decision trees, nearest neighbor models, and neural nets; and a standard ML library, e.g., scikit-learn, TensorFlow
+Experience with a Statistical Programming Language, e.g., R
+Fluency in general programming language, e.g., Python
+Experience querying relational databases using SQL
+Ability to present findings clearly and concisely to team members and data science leadership
+Other duties as needed or required
+BS/BA with 4 years’ experience; MS with up to 2 years’ experience or equivalent experience
+What We Look For (preferred):
+Experience with AWS services SageMaker, Personalize, Lambda, and Kinesis a plus
+#LI-041
+
+Who We Are
+About Cox Automotive
+There’s nothing ordinary about Cox Automotive. We are people of every background driven by our passion for mobility, innovation, client success and community outreach. We make buying, selling and owning (or simply using) cars easier for everyone. Touching more than 40,000 clients across five continents, we bring together the best brands and the best teams to propel the automotive industry forward. Some of those team members work for our iconic consumer brands like Autotrader and Kelley Blue Book, while others are creating the future of automotive at industry-facing brands like Dealer.com, Manheim and vAuto.
+
+About Cox
+We are the Cox family of businesses. We’ve been making our mark since 1898 by building and evolving world-class businesses, staying true to our values, and encouraging top talent to always look for growth and impact while building a career with us. Our primary divisions – Cox Communications and Cox Automotive – are driving a new wave of innovation, powering smart cities with powerhouse broadband communications and pioneering greener, more progressive transportation alternatives for individuals and fleet operators. We’re also expanding into new spaces like cleantech and healthcare to rev up our momentum toward building a better future for the next generation. We’re looking for the talent today who will be our leaders tomorrow. Sound intriguing? Learn more about where we are today, where we hope you’ll be going with us, and the common purpose that unites us at coxenterprises.com.
+Cox is an Equal Employment Opportunity employer - All qualified applicants/employees will receive consideration for employment without regard to that individual’s age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.
+Statement to ALL Third-Party Agencies and Similar Organizations: Cox accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.",3.7,"Cox Automotive
+3.7","Atlanta, GA",10000+ Employees,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,"Cox Automotive
+",101,162,131.5, GA,7,1,0,0,1,0
+Principal Data Scientist,$71K - $122K (Glassdoor est.),"Job Description:
+At Fidelity’s Artificial Intelligence Center of Excellence (COE), you won’t be just tinkering around the edges, you’ll be building critical solutions that will benefit our clients for years to come. We work closely with business stakeholders, collect requirements and deliver high value AI/ML solutions that drive customer and business value. Those of us who love to work with data see this as the pinnacle of opportunities that you cannot find anywhere else in the industry.
+The AI COE is seeking a Principal Data Scientist with experience in Virtual Assistants or chatbots, Natural Language Processing/text analytics, machine learning, various deep learning related technologies, predictive and prescriptive analytics.
+The Expertise You Have
+PhD in Computer Science with extensive research papers on Natural Language Processing, OR Master’s Degree in Computer Science, Statistics, Data Science or similar technical discipline with at least 5 years relevant professional experience
+Deep understanding of Machine Learning & Deep Learning algorithms
+Knowledge of most of the following quantitative fields: Natural Language Processing, Information Retrieval, Machine Comprehension, Question Answering/Conversational AI, Reinforcement Learning, Knowledge Graph, Causal Inference, and Design of Experiment
+Statistical and data science programming skills, such as Python and R
+The Skills You Bring
+Experience in Big Data, search, NLP, and chatbot technologies such as Elasticsearch and Solr
+Knowledge of Deep Learning and related tools such as TensorFlow, Keras, MXNET, or H2O is preferred
+Experience deploying NLP solutions in a commercial environment
+The Value You Deliver
+Manage and guide data science and data engineering elements of AI projects
+Set a strategic direction for data identification, collection and qualification activities
+Lead data analysis for multiple projects with diverse scope and complex business and technical challenges across several business units and functions
+Implement new technologies in a production environment with product, IT, and data engineering teams
+Present reports and findings to senior level technical and non-technical audiences
+Certifications:
+
+Company Overview
+At Fidelity, we are focused on making our financial expertise broadly accessible and effective in helping people live the lives they want. We are a privately held company that places a high degree of value in creating and nurturing a work environment that attracts the best talent and reflects our commitment to our associates. We are proud of our diverse and inclusive workplace where we respect and value our associates for their unique perspectives and experiences. For information about working at Fidelity, visit FidelityCareers.com.
+
+Fidelity Investments is an equal opportunity employer.
+
+Fidelity will reasonably accommodate applicants with disabilities who need adjustments to complete the application or interview process. Please email us at accommodations@fmr.com or 800-835-5099, prompt 2, option 2 if you would like to request an accommodation.",4.1,"Fidelity Investments
+4.1","Boston, MA",10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD),0,0,"Fidelity Investments
+",71,122,96.5, MA,75,1,0,0,0,1
+Data Analyst I - Data Science Team,$78K - $129K (Glassdoor est.),"Wednesday, October 14, 2020
+
+The Data Science Division works on projects to help the Department of the Navy and other government agencies to develop advanced analytics and algorithms for systems, sensors, networks, and platforms to ensure America's defense in the 21st century. DSD researchers have relevant experience (either in course work, previous job experience, or military experience) in programming, machine learning, model building, and data visualization.
+
+CNA fosters an inclusive culture that values diverse backgrounds and perspectives. Our flexible and engaging work environment encourages iterative and creative collaboration at every stage of the problem solving process. Our employees are committed to helping clients develop effective solutions to better manage their programs through scientific, data-driven approaches.
+
+We are looking for creative and innovative individuals to help carry out our mission.
+
+JOB DECRIPTION/ DUTIES
+
+Data Analysts I in the Data Science Program work on projects to develop advanced analytics and algorithms for the Department of the Navy and other government agencies to ensure America's defense in the 21st century. Data Analyst I learn CNA's unique approach to analytics that combines an understanding of the technical capabilities with insights acquired from up close and current experience with real-world military operations.
+1. Leverage R and/or Python to develop machine learning models for, e.g., regression, classification, natural language processing, and/or image recognition.
+
+2. Develop an understanding of Navy and Marine Corps operations, maintenance, supply, training, and personnel datasets.
+3. Extract, transform, load (ETL) data from various data sources in order to initiate analysis.
+
+4. Conduct data preparation including cleaning, wrangling, joining, and converting data in order to provide a useable analytic dataset.
+
+5. Conduct Exploratory Data Analysis (EDA) to include the use of data visualizations (e.g. Dash, MATPLOTLIB, R Shiny, ggplot2, Power BI, etc.), correlations, empirical/theoretical distributions of data, and summary statistics.
+
+6. Apply statistical methods including descriptive and inferential techniques using parametric and nonparametric statistics.
+
+7. Communicate analysis and results clearly, concisely and precisely.
+
+8. Support projects by analyzing complex datasets and using effective visualizations of data in their results.
+
+9. Serve as an effective team member by fulfilling assignments in a timely and efficient manner. Works cooperatively and accepts guidance and direction from others. Exhibits a positive attitude, and takes responsibility for own actions and outcomes.
+
+10. Interact with functional peers within the organization, as well as sponsors / clients/ vendors; sometimes with guidance from others. Interaction normally involves exchange or presentation of factual, but somewhat varied and complex information.
+
+JOB REQUIREMENTS
+
+1. Education: Bachelor’s degree in Data Science, Programming, Statistic or related field or equivalent experience required.
+
+2. Experience: Relevant experience demonstrated from course work and/or relevant work history including internships.
+
+3. Skills: Ability to construct effective briefings using MS PowerPoint and intermediate skills with MS Word and Excel and other standard software packages. Ability to apply machine learning techniques, building models (statistical, mathematical, simulation, etc.) in programming languages such as R or Python. Ability to analyze complex datasets using effective visualizations of data in achieved results; skilled in programming, statistics, machine learning, and data visualization. Working knowledge of data and information management analysis techniques and best practices.
+
+4. Other: Ability to obtain and maintain an Active Security Clearance.
+
+**Note: To be considered for this position, please upload your transcripts**
+
+CNA is committed to providing equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, religion, color, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, family medical history or genetic information, political affiliation, military service and protected veterans, or other non-merit based factors. In addition to federal legal requirements, CNA complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. These protections extend to all terms and conditions of employment, including recruiting and hiring practices, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training and career development programs. For more information about EEO protections, please view the EEO is the law posters below: ""EEO is the Law"" Poster; ""EEO is the Law"" Poster Supplement. The pay transparency policy is available here: Pay Transparency Nondiscrimination Poster
+
+To be considered for hire, all individuals applying for positions with CNA are subject to a background investigation. For positions requiring access to classified information, U.S. citizenship is required. Individuals will also be subject to an additional government background investigation, and continued employment eligibility is contingent upon the ability to obtain and maintain an active security clearance.
+
+Other details
+Job Family
+Technical
+Job Function
+Career Path I - Research
+Pay Type
+Salary
+Apply Now",3.3,"CNA Corporation
+3.3","Arlington, VA",501 to 1000 Employees,1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),0,0,"CNA Corporation
+",78,129,103.5, VA,79,1,0,0,1,1
