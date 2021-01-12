@@ -1,4 +1,4 @@
-Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Size,Founded,Type of ownership,Industry,Sector,Revenue,Salary Hourly,Salary Employer Provided,Min Salary,Max Salary,Avg Salary,Company Text,Job State,Company Age,Python Job,R-Studio Job,Spark Job,AWS Job,Excel Job
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Size,Founded,Type of ownership,Industry,Sector,Revenue,Salary Hourly,Salary Employer Provided,Min Salary,Max Salary,Avg Salary,Company Text,Job State,Company Age,Python Job,R-Studio Job,Spark Job,AWS Job,Excel Job,Job Simplifier,Seniority,Desc Length
 Principal Data Scientist,$104K - $170K (Glassdoor est.),"Working out of our Chevy Chase, MD/Washington DC office, GEICO's Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
 As a Principal Data Scientist, you will work with a talented and diverse team of data scientists with responsibility to:
 Coordinate project teams of data scientists and supporting roles, acting as the primary point of contact in delivering end-to-end innovative, high-quality data solutions with measurable business value
@@ -34,8 +34,7 @@ EEO Statement:
 The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
 GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.
 #LI-JW1",3.5,"GEICO
-3.5","Chevy Chase, MD",10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),0,0,104,170,137.0,"GEICO
-", MD,85,1,0,0,0,1
+3.5","Chevy Chase, MD",10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),0,0,104,170,137.0,GEICO, MD,85,1,0,0,0,1,data scientist,senior,5248
 "Scientist, Clinical Data Manager",$30K - $55K (Glassdoor est.),"Job Number: 29829
 
 Reynolds American Incorporated is positively transforming the tobacco industry. We’re a family of companies that strives for success in everything we do. The future inspires us because our people are igniting the breakthroughs that are redefining the ways adult tobacco consumers enjoy tobacco in the 21st century.
@@ -101,8 +100,7 @@ We are also committed to employing a diverse workforce and valuing different per
 -
 Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
 California Privacy Notice",4.3,"British American Tobacco
-4.3","Winston-Salem, NC",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,30,55,42.5,"British American Tobacco
-", NC,119,0,0,0,0,1
+4.3","Winston-Salem, NC",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,30,55,42.5,British American Tobacco, NC,119,0,0,0,0,1,manager,na,6284
 Scientist,$51K - $108K (Glassdoor est.),"Classification:
 Salary
 Job Description:
@@ -148,8 +146,7 @@ Must have or be able to obtain a passport and any required visas
 Physical Requirements:
 Bending and reaching to file. Infrequent ability to lift/move up to minimum of 50 pounds.
 Handles, uses, stores, and disposes lab chemicals as outlined in SDS, SOP and other company prescribed, state and federal guidelines.",3.5,"Laticrete International
-3.5","Grand Prairie, TX",201 to 500 Employees,-1,Company - Private,Chemical Manufacturing,Manufacturing,$100 to $500 million (USD),0,0,51,108,79.5,"Laticrete International
-", TX,-1,0,0,0,0,1
+3.5","Grand Prairie, TX",201 to 500 Employees,-1,Company - Private,Chemical Manufacturing,Manufacturing,$100 to $500 million (USD),0,0,51,108,79.5,Laticrete International, TX,-1,0,0,0,0,1,na,na,5332
 Scientist - R&D ASC,$40K - $65K (Glassdoor est.),"Job Number: 31115
 
 Reynolds American Incorporated is positively transforming the tobacco industry. We’re a family of companies that strives for success in everything we do. The future inspires us because our people are igniting the breakthroughs that are redefining the ways adult tobacco consumers enjoy tobacco in the 21st century.
@@ -229,8 +226,7 @@ We are also committed to employing a diverse workforce and valuing different per
 -
 Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
 California Privacy Notice",4.3,"British American Tobacco
-4.3","Memphis, TN",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,40,65,52.5,"British American Tobacco
-", TN,119,0,0,0,0,1
+4.3","Memphis, TN",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,40,65,52.5,British American Tobacco, TN,119,0,0,0,0,1,na,na,7043
 Operations Data Analyst,$36K - $62K (Glassdoor est.),"Make your mark. With more than $17.2 billion of assets under management, Plante Moran’s Wealth Management Team serves as a trusted advisor to more than 2,900 high net worth individuals, family business owners, and corporate retirement plans helping them build, manage and preserve their wealth. Our integrated affiliate services include investment consulting, financial planning, trust, insurance consulting, estate planning, business succession, and tax planning.
 
 Your role.
@@ -259,8 +255,7 @@ Plante Moran is an Equal Opportunity Employer, committed to a diverse workplace.
 Interested applicants must submit their resume for consideration using our applicant tracking system. Due to the high volume of applications received, only candidates selected for interviews will be contacted. Candidates must be legally authorized to work in the United States without sponsorship, with the exception of candidates that are bilingual in Japanese and English. Unsolicited resumes from search firms or employment agencies, or similar, will not be paid a fee and become the property of Plante Moran.
 
 The specific statements above are not intended to be all-inclusive.",4.0,"Plante Moran
-4.0","Kalamazoo, MI",1001 to 5000 Employees,1924,Company - Private,Accounting,Accounting & Legal,$500 million to $1 billion (USD),0,0,36,62,49.0,"Plante Moran
-", MI,97,0,0,0,0,1
+4.0","Kalamazoo, MI",1001 to 5000 Employees,1924,Company - Private,Accounting,Accounting & Legal,$500 million to $1 billion (USD),0,0,36,62,49.0,Plante Moran, MI,97,0,0,0,0,1,analyst,na,2754
 "Scientist III, Quality Control",$35K - $64K (Glassdoor est.),"The Scientist 3 - QC is responsible to perform testing of raw materials, in-process and finished pharmaceutical dosage forms, products on stability, cleaning verification samples following written procedures and applicable SOPs, calculate and report results on applicable specification documents, participate in method transfer activities within departments or between facilities or organizations. This role will also provide feedback on systems and analytical procedures to promote continuous improvement and enhancement of compliance posture.
 
 Essential Functions:
@@ -312,8 +307,7 @@ Shift: Standard
 Job Type: Full-time
 1st Shift
 Job Posting: Dec 30, 2020, 10:39:21 AM",3.4,"Amneal Pharmaceuticals
-3.4","Brookhaven, NY",5001 to 10000 Employees,2002,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),0,0,35,64,49.5,"Amneal Pharmaceuticals
-", NY,19,0,0,0,0,0
+3.4","Brookhaven, NY",5001 to 10000 Employees,2002,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),0,0,35,64,49.5,Amneal Pharmaceuticals, NY,19,0,0,0,0,0,na,na,5388
 "AVP, Data Science for Personal Lines",$88K - $144K (Glassdoor est.),"AVP, Data Science for Personal Lines
 Worcester, MA, USA Req #13437
 Thursday, November 5, 2020
@@ -369,8 +363,7 @@ Pay Type
 Salary
 Required Education
 Bachelor’s Degree",4.1,"The Hanover Insurance Group
-4.1","Worcester, MA",5001 to 10000 Employees,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),0,0,88,144,116.0,"The Hanover Insurance Group
-", MA,169,0,0,0,0,0
+4.1","Worcester, MA",5001 to 10000 Employees,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),0,0,88,144,116.0,The Hanover Insurance Group, MA,169,0,0,0,0,0,na,na,6306
 "Sr Scientist, Product Data Management",$53K - $108K (Glassdoor est.),"Job Number: 31636
 
 Reynolds American Incorporated is positively transforming the tobacco industry. We’re a family of companies that strives for success in everything we do. The future inspires us because our people are igniting the breakthroughs that are redefining the ways adult tobacco consumers enjoy tobacco in the 21st century.
@@ -439,8 +432,7 @@ We are also committed to employing a diverse workforce and valuing different per
 -
 Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
 California Privacy Notice",4.3,"British American Tobacco
-4.3","Winston-Salem, NC",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,53,108,80.5,"British American Tobacco
-", NC,119,0,0,0,0,1
+4.3","Winston-Salem, NC",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,53,108,80.5,British American Tobacco, NC,119,0,0,0,0,1,na,senior,6052
 Senior Data Scientist,$60K - $104K (Glassdoor est.),"Job Description:
 At Fidelity’s Artificial Intelligence Center of Excellence (COE), you won’t be just tinkering around the edges, you’ll be building critical solutions that will benefit our clients for years to come. We work closely with business stakeholders, collect requirements and deliver high value AI/ML solutions that drive customer and business value. Those of us who love to work with data see this as the pinnacle of opportunities that you cannot find anywhere else in the industry.
 The AI COE is seeking a Senior Data Scientist with experience in Virtual Assistants or chatbots, Natural Language Processing/text analytics, machine learning, various deep learning related technologies, predictive and prescriptive analytics.
@@ -467,8 +459,7 @@ At Fidelity, we are focused on making our financial expertise broadly accessible
 Fidelity Investments is an equal opportunity employer.
 
 Fidelity will reasonably accommodate applicants with disabilities who need adjustments to complete the application or interview process. Please email us at accommodations@fmr.com or 800-835-5099, prompt 2, option 2 if you would like to request an accommodation.",4.1,"Fidelity Investments
-4.1","Boston, MA",10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD),0,0,60,104,82.0,"Fidelity Investments
-", MA,75,1,0,0,0,1
+4.1","Boston, MA",10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD),0,0,60,104,82.0,Fidelity Investments, MA,75,1,0,0,0,1,data scientist,senior,3099
 Scientist,$41K - $91K (Glassdoor est.),"Company Description
 
 EAG Laboratories is a global leader in analytical chemistry, advanced microscopy, surface analysis and analytical testing services of various types of materials from synthetic biomaterials to nanotechnology, deliver new “super materials” with the potential to transform our world. Our laboratories are at the forefront of this revolution, providing the scientific expertise and analytical techniques to support companies at every phase of the product lifecycle, from R&D to manufacturing.
@@ -503,8 +494,7 @@ Requirements include fine and gross motor skills, sitting, lifting, bending, spe
 Additional Information
 
 All your information will be kept confidential according to EEO guidelines.",3.6,"EAG Laboratories
-3.6","Saint Louis, MO",501 to 1000 Employees,1978,Subsidiary or Business Segment,Research & Development,Business Services,$100 to $500 million (USD),0,0,41,91,66.0,"EAG Laboratories
-", MO,43,0,0,0,0,1
+3.6","Saint Louis, MO",501 to 1000 Employees,1978,Subsidiary or Business Segment,Research & Development,Business Services,$100 to $500 million (USD),0,0,41,91,66.0,EAG Laboratories, MO,43,0,0,0,0,1,na,na,3069
 Research Scientist,$46K - $96K (Glassdoor est.),"The research division of the Virginia Department of Transportation (VDOT), the Virginia Transportation Research Council (VTRC), in Charlottesville, VA, is seeking strong engineering researchers to join its Structures research team. Qualified candidates will have experience conducting applied research related to hydraulic cement concrete and its constituents for innovative applications in bridges and other transportation structures, and will have knowledge of underlying material science, rheology and construction processes.
 In this highly important role, you will have the opportunity to serve as a Principal Investigator (PI) or co-PI on multiple research projects.
 You will also have the opportunity to:
@@ -558,8 +548,7 @@ Email
 charlene.easter@vdot.virginia.gov
 
 Address",3.9,"Virginia Dept of Transportation
-3.9","Charlottesville, VA",5001 to 10000 Employees,1906,Government,State & Regional Agencies,Government,$5 to $10 billion (USD),0,0,46,96,71.0,"Virginia Dept of Transportation
-", VA,115,0,0,0,0,0
+3.9","Charlottesville, VA",5001 to 10000 Employees,1906,Government,State & Regional Agencies,Government,$5 to $10 billion (USD),0,0,46,96,71.0,Virginia Dept of Transportation, VA,115,0,0,0,0,0,na,na,4820
 Data Scientist II,$73K - $124K (Glassdoor est.),"LOCATION 4287 Route 130 S Edgewater Park NJ US 08010
 Overview
 The BI Developer II will be responsible for developing solutions for a mature Retail Merchandising/Business Intelligence platform. The right candidate will have a strong database background, data mining and statistical analysis. Prior Retail experience is a plus. Must have the ability to contribute in all phases of the Software Development Life Cycle (SDLC) including gathering requirements, providing programming support, preparing functional and technical documentation, testing, user acceptance and rollout. Must have strong interpersonal and relationship building skills & strong written and verbal communication skills.
@@ -597,8 +586,7 @@ Position Type Regular Full-Time
 Career Site Category Corporate
 Position Category Information Technology
 Evergreen Yes",3.2,"Burlington Stores
-3.2","Edgewater Park, NJ",10000+ Employees,1972,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$5 to $10 billion (USD),0,0,73,124,98.5,"Burlington Stores
-", NJ,49,1,0,0,0,1
+3.2","Edgewater Park, NJ",10000+ Employees,1972,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$5 to $10 billion (USD),0,0,73,124,98.5,Burlington Stores, NJ,49,1,0,0,0,1,data scientist,na,2990
 Sr Scientist Product Integrity,$49K - $102K (Glassdoor est.),"Job Number: 31264
 
 Reynolds American Incorporated is positively transforming the tobacco industry. We’re a family of companies that strives for success in everything we do. The future inspires us because our people are igniting the breakthroughs that are redefining the ways adult tobacco consumers enjoy tobacco in the 21st century.
@@ -663,8 +651,7 @@ We are also committed to employing a diverse workforce and valuing different per
 -
 Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
 California Privacy Notice",4.3,"British American Tobacco
-4.3","Winston-Salem, NC",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,49,102,75.5,"British American Tobacco
-", NC,119,0,0,0,0,1
+4.3","Winston-Salem, NC",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,49,102,75.5,British American Tobacco, NC,119,0,0,0,0,1,na,senior,5803
 Data Analyst (South of Milwaukee),$65K - $79K (Employer est.),"Data Analyst
 Corporate Headquarters
 12575 Uline Dr. Pleasant Prairie, WI 53158
@@ -716,8 +703,7 @@ Uline is a drug-free workplace.
 
 #LI-LP1
 #CORP",3.6,"Uline
-3.6","Milwaukee, WI",5001 to 10000 Employees,1980,Company - Private,Wholesale,Business Services,Unknown / Non-Applicable,0,0,65,79,72.0,"Uline
-", WI,41,0,0,0,0,1
+3.6","Milwaukee, WI",5001 to 10000 Employees,1980,Company - Private,Wholesale,Business Services,Unknown / Non-Applicable,0,0,65,79,72.0,Uline, WI,41,0,0,0,0,1,analyst,na,2914
 Permitting/ Wetland Scientist,$45K - $70K (Glassdoor est.),"Overview:
 PS&S is an award-winning “one-stop shop” of architecture and engineering excellence. The depth and breadth of our expertise has helped PS&S grow into a firm of more than 275 professionals offering multi-disciplined, full-service architecture, engineering, design and environmental consulting services.
 We offer a single source for planning, design and regulatory compliance services on diverse projects across a number of market segments - education, energy/utilities, hospitality/entertainment, infrastructure/public improvement, real estate and science/technology. Our ability to present virtually all engineering disciplines side by side with our architectural services allows us to respond, quickly and efficiently, to clients’ unique needs. Having proudly served a sophisticated client base operating in numerous industries, we know the importance of developing the most on-time, cost-effective and high-quality solutions to the most difficult client challenges. Our success is measured by the success of our clients; the success of each project is our number one priority.
@@ -749,8 +735,7 @@ OSHA 40 - Hour Training preferred but not required
 Experience using Trimble GPS units a plus but not required.
 Ability to work in a team environment as well as independently
 This position is a great opportunity for qualified professionals who are energetic and enthusiastic and who like a wide variety of project types",2.9,"PS&S
-2.9","Wall Township, NJ",201 to 500 Employees,1962,Company - Private,Architectural & Engineering Services,Business Services,$50 to $100 million (USD),0,0,45,70,57.5,"PS&S
-", NJ,59,0,0,0,0,1
+2.9","Wall Township, NJ",201 to 500 Employees,1962,Company - Private,Architectural & Engineering Services,Business Services,$50 to $100 million (USD),0,0,45,70,57.5,PS&S, NJ,59,0,0,0,0,1,na,na,2961
 Data Scientist,$59K - $99K (Glassdoor est.),"We are Cognizant Artificial Intelligence
 Digital technologies, including analytics and AI, give companies a once-in-a-generation opportunity to perform orders of magnitude better than ever before. But clients need new business models built from analyzing customers and business operations at every angle to really understand them.
 With the power to apply artificial intelligence and data science to business decisions via enterprise data management solutions, we help leading companies prototype, refine, validate and scale the most desirable products and delivery models to enterprise scale within weeks.
@@ -784,8 +769,7 @@ About Cognizant Cognizant (Nasdaq-100: CTSH) is one of the world's leading profe
 Cognizant is recognized as a Military Friendly Employer and is a coalition member of the Veteran Jobs Mission. Our Cognizant Veterans Network assists Veterans in building and growing a career at Cognizant that allows them to leverage the leadership, loyalty, integrity, and commitment to excellence instilled in them through participation in military service.
 Cognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.
 If you have a disability that requires a reasonable accommodation to search for a job opening or submit an application, please email CareersNA2@cognizant.com with your request and contact information.",3.7,"Cognizant Technology Solutions
-3.7","Dallas, TX",10000+ Employees,1994,Company - Public,-1,-1,$10+ billion (USD),0,0,59,99,79.0,"Cognizant Technology Solutions
-", TX,27,0,0,0,0,1
+3.7","Dallas, TX",10000+ Employees,1994,Company - Public,-1,-1,$10+ billion (USD),0,0,59,99,79.0,Cognizant Technology Solutions, TX,27,0,0,0,0,1,data scientist,na,3709
 Social Scientist (Health Workforce Analytics Advisor),$47K - $94K (Glassdoor est.),"You are encouraged to read the entire announcement before you submit your application package. Your application may not receive full consideration if you do not follow the instructions as outlined.
 
 This position is located in the Office of HIV/AIDS, Systems and Program Sustainability Division, Health Workforce Branch (GH/OHA/SPS/HWF), USAID Annex, 500 D Street, SW, Washington, DC,.
@@ -818,8 +802,7 @@ Experience refers to paid and unpaid experience, including volunteer work done t
 ICTAP candidates will be referred to the selecting official if they are found well qualified. Well-qualified means an eligible employee who possesses the knowledge, skills, and abilities which clearly exceed the minimum requirements of the position. A well-qualified employee must meet the qualification and eligibility requirements of the position, including any medical qualifications, suitability, and minimum education and experience requirements, meet all selective factors (where applicable); meet quality ranking factors and are assigned to the Silver Category or higher Category; be physically qualified with reasonable accommodation to perform the essential duties of the position; meet any special qualifying U.S. OPM-approved conditions; AND be able to satisfactorily perform the duties of the position upon entry without additional training.
 
 A well-qualified candidate will not necessarily meet the definition of highly or best qualified when evaluated against other candidates who apply for a particular position. In the absence of selective and quality ranking factors, selecting officials will document the job-related reason(s) for qualification determinations.",3.9,"U.S. Agency for International Development
-3.9","Washington, DC",5001 to 10000 Employees,1950,Government,Federal Agencies,Government,Less than $1 million (USD),0,0,47,94,70.5,"U.S. Agency for International Development
-", DC,71,0,0,0,0,0
+3.9","Washington, DC",5001 to 10000 Employees,1950,Government,Federal Agencies,Government,Less than $1 million (USD),0,0,47,94,70.5,U.S. Agency for International Development, DC,71,0,0,0,0,0,na,na,5399
 "Scientist, Product Development",$50K - $93K (Glassdoor est.),"Summary:
 Metagenics is a global lifestyle medicine company, offering products and programs exclusively to health care practitioners. For over 30 years, we have been driven by a scientific concept: How the right nutrition can help people realize their best health possible. We don't compromise on safety, efficacy, or quality - to make sure that we deliver the best results possible. Time after time. Bottle after bottle. We carefully monitor all products to assure purity and safety, from formulation and ingredient selection all the way to the final product. We offer more educational support for health care professionals than anyone else in our field - keeping them in touch with the latest research and nutritional approaches to help manage today’s most common illnesses. Metagenics is dedicated to helping people live a happier, healthier life by realizing their genetic potential.
 Responsibilities:
@@ -886,8 +869,7 @@ Metagenics, and its companies are committed to providing equal employment opport
 
 #LI-POST
 IND123",3.1,"Metagenics
-3.1","Gig Harbor, WA",201 to 500 Employees,1983,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),0,0,50,93,71.5,"Metagenics
-", WA,38,0,0,0,0,1
+3.1","Gig Harbor, WA",201 to 500 Employees,1983,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),0,0,50,93,71.5,Metagenics, WA,38,0,0,0,0,1,na,na,8138
 Data Analyst - Product Development (eCommerce),$37K - $66K (Glassdoor est.),"JOB TITLE: Data Analyst - Product Development (eCommerce)
 REPORTS TO: Manager, Analytics
 JOB SUMMARY: The Data Analyst will play a critical role in helping BNED analyze the business through product analytics and evolve as a “digital-first” organization. The Data Analyst will work closely with business stakeholders to identify and measure key performance indicators. This candidate must be comfortable working with large sets of data and using critical thinking/analytical skills to unlock key actionable insights.
@@ -929,8 +911,7 @@ Marketing
 Merchandising
 Barnes & Noble Education, Inc. is an Equal Employment Opportunity and Affirmative Action Employer committed to diversity in the workplace. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
 #IND",3.5,"Barnes & Noble Education
-3.5","Boston, MA",10000+ Employees,1965,Subsidiary or Business Segment,Media & Entertainment Retail Stores,Retail,$1 to $2 billion (USD),0,0,37,66,51.5,"Barnes & Noble Education
-", MA,56,0,0,0,0,1
+3.5","Boston, MA",10000+ Employees,1965,Subsidiary or Business Segment,Media & Entertainment Retail Stores,Retail,$1 to $2 billion (USD),0,0,37,66,51.5,Barnes & Noble Education, MA,56,0,0,0,0,1,analyst,na,3567
 Data Analyst,$34K - $64K (Glassdoor est.),"As a Data and Reporting Analyst, you will join our team on a journey to help eliminate barriers for patients, increase their access to medications, and help them receive lifesaving treatments while working in an environment that nurtures you.
 The Data Analyst must be an excellent communicator (both orally and written) and be able to effectively foster interactive collaboration and discussions among clients and internal TrialCard teams. As a Data Analyst, you are r­esponsible for gaining a full understanding of the assigned program(s) and should have a fluent understanding of report design and configuration. Must be able to review and analyze data as well as present conclusions in a logical and clear manner. Must be able to effectively work as part of a team.
 
@@ -964,8 +945,7 @@ Proficiency in MS Outlook, MS Windows
 Understanding of dimensional data modeling concepts, as well as data warehousing design highly desirable.
 Experience designing and implementing enterprise business intelligence solutions using Microstrategy, Salesforce.com, Microsoft SSRS or similar highly desirable
 Knowledge of the pharmaceutical industry, direct marketing or finance highly desirable",3.0,"TrialCard
-3.0","Morrisville, NC",1001 to 5000 Employees,2001,Company - Private,Advertising & Marketing,Business Services,$50 to $100 million (USD),0,0,34,64,49.0,"TrialCard
-", NC,20,0,0,0,0,1
+3.0","Morrisville, NC",1001 to 5000 Employees,2001,Company - Private,Advertising & Marketing,Business Services,$50 to $100 million (USD),0,0,34,64,49.0,TrialCard, NC,20,0,0,0,0,1,analyst,na,3873
 Data Scientist,$70K - $115K (Glassdoor est.),"A data scientist's main mission is to collaborate with the business operations team to answer business questions by using data mining techniques, including pattern detection, graph analysis or statistical analysis. This position is an advanced technical professional role responsible for exploring and analyzing data across the enterprise and presenting information and key insights that supports the organization's strategies. Data Model Architecture designs must meet initial needs and allow scalability to support growth. The Data Scientist will have in-depth knowledge across multiple technical environments as well as strong business acumen and can provide expertise regarding systems design, integration and performance analysis across the business. The role promotes shared infrastructure and applications to reduce costs and improve information flows, and it ensures that new technology solutions do not duplicate functionality or diverge from each other and business and IT strategies. This role will interface with the business and IT community to ensure that the right people have access to the right data in the right format at the right time. The Data Scientist will identify and prioritize opportunities for and contribute to the improvement of quality, safety and cost, as well as Patient, Customer, Physician and Employee satisfaction.Educational Requirements
 Required:
 Bachelor's degree with a major in Information Systems, Computer Science, Mathematics, Engineering, Statistics or related scientific discipline
@@ -982,8 +962,7 @@ Not Required
 
 Certifications/Registration Requirements
 One or more industry certifications such as: PMI, CPHIMS, ITIL, COBIT, CMMI, Six Sigma (preferred)",3.6,"Lee Health
-3.6","Fort Myers, FL",10000+ Employees,1916,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,70,115,92.5,"Lee Health
-", FL,105,0,0,0,1,0
+3.6","Fort Myers, FL",10000+ Employees,1916,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,70,115,92.5,Lee Health, FL,105,0,0,0,1,0,data scientist,na,2379
 Data Engineer,$47K - $91K (Glassdoor est.),"Must live in the Greater Sacramento Area(Remote)
 
 Opportunity
@@ -1026,8 +1005,7 @@ Quick Quack has established a culture of exceptionally talented people in a grea
 · Commitment to the Customer. Every Team Member is responsible for delivering best-in-class customer experiences. Team Members achieve this through honest, welcoming, and helpful communication, and demonstrate pride through maintaining a supportive and professional disposition. Each Team Member is an integral part of Quick Quack. Through individual and collective excellence and commitment, they aim to provide not only their best but also the very best of the car wash industry.
 Job Type: Full-time
 Pay: $100,000.00 - $120,000.00 per year",3.7,"Quick Quack Car Wash
-3.7","Roseville, CA",1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail,Unknown / Non-Applicable,0,0,47,91,69.0,"Quick Quack Car Wash
-", CA,17,1,0,0,1,1
+3.7","Roseville, CA",1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail,Unknown / Non-Applicable,0,0,47,91,69.0,Quick Quack Car Wash, CA,17,1,0,0,1,1,data engineer,na,5969
 Sr Scientist Non-Clinical Studies,$56K - $112K (Glassdoor est.),"Job Number: 31143
 
 Reynolds American Incorporated is positively transforming the tobacco industry. We’re a family of companies that strives for success in everything we do. The future inspires us because our people are igniting the breakthroughs that are redefining the ways adult tobacco consumers enjoy tobacco in the 21st century.
@@ -1094,8 +1072,7 @@ We are also committed to employing a diverse workforce and valuing different per
 -
 Only applicants requiring reasonable accommodation for any part of the application and hiring process should contact us directly via email at TalentAcquisition@RJRT.com.
 California Privacy Notice",4.3,"British American Tobacco
-4.3","Winston-Salem, NC",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,56,112,84.0,"British American Tobacco
-", NC,119,0,0,0,0,1
+4.3","Winston-Salem, NC",10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,56,112,84.0,British American Tobacco, NC,119,0,0,0,0,1,na,senior,6353
 RESEARCH SCIENTIST -LC/MS,$33K - $62K (Glassdoor est.),"JOB DESCRIPTION
 Title: Research Scientist
 Department: Chromatographic Sciences
@@ -1161,8 +1138,7 @@ If you resonate with our five principles above, and ultimately wish to accelerat
 
 Diversity Statement
 PPD is proud to be an affirmative action employer that values diversity as a strength and fosters an environment of mutual respect. PPD is committed to providing equal employment opportunities without regard to age, race, color, pregnancy, national origin, religion, sex, gender identity, sexual orientation, disability, veteran status or status within any other protected group.",3.9,"PPD
-3.9","Richmond, VA",10000+ Employees,1985,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),0,0,33,62,47.5,"PPD
-", VA,36,0,0,0,0,0
+3.9","Richmond, VA",10000+ Employees,1985,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),0,0,33,62,47.5,PPD, VA,36,0,0,0,0,0,na,na,6450
 Data Scientist,$76K - $111K (Glassdoor est.),"At Varen, our performance is measured by the success of our clients, and our reputation for service, superior quality, objectivity, integrity and results. Our reputation is everything to us as we are committed to being a trusted adviser to our nations decision makers in a day in age that demands acute attention to detail in a fast-paced environment. Varen is seeking to add the sharpest technical professionals who share our passion for ensuring the mission success of our customers at all times.
 
 Data Scientist
@@ -1193,8 +1169,7 @@ Clearance Requirement:
 TS/SCI w/poly
 
 Varen Technologies, Inc. is an Equal Opportunity Employer and applicants receive lawful consideration for employment without regard to race, religion, color, gender, age, national origin, disability, or veteran status.",4.2,"Varen Technologies
-4.2","Annapolis Junction, MD",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),0,0,76,111,93.5,"Varen Technologies
-", MD,16,0,0,0,0,0
+4.2","Annapolis Junction, MD",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),0,0,76,111,93.5,Varen Technologies, MD,16,0,0,0,0,0,data scientist,na,3073
 Senior Data Scientist,$77K - $127K (Glassdoor est.),"Primary Location: 6305 Peachtree Dunwoody Rd, Atlanta, GA, USA
 Division: Cox Communications Inc
 Job Level: Individual Contributor
@@ -1235,8 +1210,7 @@ About Cox
 We are the Cox family of businesses. We’ve been making our mark since 1898 by building and evolving world-class businesses, staying true to our values, and encouraging top talent to always look for growth and impact while building a career with us. Our primary divisions – Cox Communications and Cox Automotive – are driving a new wave of innovation, powering smart cities with powerhouse broadband communications and pioneering greener, more progressive transportation alternatives for individuals and fleet operators. We’re also expanding into new spaces like cleantech and healthcare to rev up our momentum toward building a better future for the next generation. We’re looking for the talent today who will be our leaders tomorrow. Sound intriguing? Learn more about where we are today, where we hope you’ll be going with us, and the common purpose that unites us at coxenterprises.com.
 Cox is an Equal Employment Opportunity employer - All qualified applicants/employees will receive consideration for employment without regard to that individual’s age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.
 Statement to ALL Third-Party Agencies and Similar Organizations: Cox accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.",3.9,"Cox Communications Inc
-3.9","Atlanta, GA",10000+ Employees,1962,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),0,0,77,127,102.0,"Cox Communications Inc
-", GA,59,1,0,1,0,1
+3.9","Atlanta, GA",10000+ Employees,1962,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),0,0,77,127,102.0,Cox Communications Inc, GA,59,1,0,1,0,1,data scientist,senior,5019
 Data Engineer III,$72K - $136K (Glassdoor est.),"At EMC, you'll put your skills to good use as an important member of our team. You can count on gaining valuable experience while contributing to the company's success. EMC strives to hire and retain the best people by engaging, developing and rewarding employees.
 Essential Functions:
 Develops, tests, and maintains pipeline architecture and infrastructure
@@ -1263,8 +1237,7 @@ Strong attention to detail, organizational and multi-tasking skills required wit
 Ability to maintain confidentiality
 Our employment practices are in accord with the laws which prohibit discrimination due to race, color, creed, sex, sexual orientation, gender identity, genetic information, religion, age, national origin or ancestry, physical or mental disability, medical condition, veteran status, citizenship status, marital status or any other consideration made unlawful by federal, state, or local laws.
 All of our locations are tobacco free including in company vehicles.",3.8,"EMC Insurance
-3.8","Des Moines, IA",1001 to 5000 Employees,1911,Unknown,Insurance Carriers,Insurance,$25 to $50 million (USD),0,0,72,136,104.0,"EMC Insurance
-", IA,110,1,0,0,1,1
+3.8","Des Moines, IA",1001 to 5000 Employees,1911,Unknown,Insurance Carriers,Insurance,$25 to $50 million (USD),0,0,72,136,104.0,EMC Insurance, IA,110,1,0,0,1,1,data engineer,na,2588
 Data Analyst,$40K - $71K (Glassdoor est.),"Talascend is currently seeking qualified applicants for a Data Analyst located in Fairfield, OH.
 OVERVIEW: The Data Analyst is responsible for data entry and maintenance for integrating and uploading data into the SAP environment. As part of the Data team, this position is responsible for the accurate entry of data into SAP. The Data team is responsible for the efficient and effective management of part number master data. This will require an individual with good attention to detail, intermediate to advanced computer skills and ability to develop processes documents.
 RESPONSIBILITIES:
@@ -1298,8 +1271,7 @@ Ability to multi-task and demonstrate organizational details
 We thank all applicants for their interest. However, only those qualified individuals who closely meet the qualifications of the position will be contacted. The details of the position are only a summary, other duties may be assigned as necessary.
 Background Check and Drug Screen may be required.
 Talascend is an Equal Opportunity Employer that recruits and hires qualified candidates without regard to race, religion, sex, sexual orientation, gender identity, age, national origin, ancestry, citizenship, disability, or veteran status.",3.2,"Talascend LLC
-3.2","Fairfield, OH",51 to 200 Employees,1946,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),0,0,40,71,55.5,"Talascend LLC
-", OH,75,0,0,0,0,1
+3.2","Fairfield, OH",51 to 200 Employees,1946,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),0,0,40,71,55.5,Talascend LLC, OH,75,0,0,0,0,1,analyst,na,2718
 Data Scientist,$94K - $155K (Glassdoor est.),"When you’re the best, we’re the best. We instill an environment where employees feel engaged, satisfied and able to contribute their unique skills and talents. We provide extensive opportunities for personal and professional development, building both employee competence and organizational capability to fuel exceptional performance now and in the future.
 Summary:
 In this role, you will conduct sophisticated data analysis to help address critical business and member questions, the outputs of which enable members to drive improvements in clinical, operational, and economic outcomes.
@@ -1323,8 +1295,7 @@ Experience working with health care administrative claims data (ICD-10, MS-DRG, 
 #IDS
 Equal Opportunity Employer: Females/Minorities/Veterans/Individuals with Disabilities
 The Company is committed to equal employment opportunity to all employees and applicants without regard to race, religion, color, gender identity, ethnicity, age, national origin, sexual orientation, disability status, veteran status or any other category protected by applicable law.",4.1,"Vizient, Inc.
-4.1","Chicago, IL",1001 to 5000 Employees,1977,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,94,155,124.5,"Vizient, Inc.
-", IL,44,1,0,0,0,0
+4.1","Chicago, IL",1001 to 5000 Employees,1977,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,94,155,124.5,"Vizient, Inc.", IL,44,1,0,0,0,0,data scientist,na,2486
 Data Scientist I,$79K - $133K (Glassdoor est.),"Job Description:
 Knowesis - Interesting Work with Interesting People
 Knowesis, Inc. has been providing data-driven decisions and solutions to our federal clients since 2007. Our highly qualified, customer-focused professionals are committed to providing information and advice to enable client success through holistic, thorough, thoughtful, and aligned approaches. Our clients leverage these capabilities to support their key business functions.
@@ -1349,8 +1320,7 @@ U.S. Citizenship Required
 Knowesis, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
 This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
 From: Knowesis Inc.",4.5,"Knowesis Inc.
-4.5","Hurlburt Field, FL",51 to 200 Employees,2007,Company - Private,Consulting,Business Services,$25 to $50 million (USD),0,0,79,133,106.0,"Knowesis Inc.
-", FL,14,0,0,0,1,1
+4.5","Hurlburt Field, FL",51 to 200 Employees,2007,Company - Private,Consulting,Business Services,$25 to $50 million (USD),0,0,79,133,106.0,Knowesis Inc., FL,14,0,0,0,1,1,data scientist,na,2648
 Associate Staff Scientist,$40K - $86K (Glassdoor est.),"A world leader in the field of in vitro diagnostics for over 55 years, bioMérieux provides diagnostic solutions that detect disease and contamination to improve patient health and ensure consumer safety. bioMérieux’s global headquarters is located in Marcy L’Étoile, France, and we have more than 11,200 team members in 43 countries. With our distributor network, we serve more than 160 countries. bioMérieux, Inc., our Americas division, has more than 4,000 team members across 12 sites or subsidiaries. Our Americas headquarters is in Durham, NC, with nearly 1,200 team members. bioMérieux, Inc. sponsors public health initiatives and partnerships to address antimicrobial resistance, sepsis awareness, food safety, and consumer health. Our passionate team members recognize the power of diagnostics and rally behind our mission to help save lives.
 
 Position Summary:
@@ -1391,8 +1361,7 @@ BMXID
 
 Nearest Major Market: Durham
 Nearest Secondary Market: Raleigh",4.4,"Biomerieux
-4.4","Durham, NC",10000+ Employees,1963,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),0,0,40,86,63.0,"Biomerieux
-", NC,58,0,0,0,0,0
+4.4","Durham, NC",10000+ Employees,1963,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),0,0,40,86,63.0,Biomerieux, NC,58,0,0,0,0,0,na,na,3175
 Medical Lab Scientist MLS/MLT Eureka,$21 - $29 Per Hour(Glassdoor est.),"Position Summary:
 Under general supervision, performs diagnostic testing and related responsibilities including appropriate collection and
 preparation of specimens, working with infant/toddler, child/adolescent, adult and/or geriatric patients, performance of
@@ -1474,8 +1443,7 @@ Process and receive all specimens efficiently and accurately according to policy
 Register, accession, and label specimens in the LIS.
 Follow through with any specimen discrepancies to ensure timely processing and testing.
 We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.",4.0,"Carle
-4.0","Eureka, IL",5001 to 10000 Employees,1918,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),1,0,21,29,25.0,"Carle
-", IL,103,0,0,0,0,0
+4.0","Eureka, IL",5001 to 10000 Employees,1918,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),1,0,42,58,25.0,Carle, IL,103,0,0,0,0,0,na,na,6807
 Data Scientist,$83K - $135K (Glassdoor est.),"Data Scientist
 
 Language: English
@@ -1506,8 +1474,7 @@ Experience starting up a data science program
 Experience working with global stakeholders
 Experience working in a start-up environment, preferably in an IoT company
 Knowledge in quantitative modeling tools and statistical analysis",3.8,"Buckman
-3.8","Memphis, TN",1001 to 5000 Employees,1945,Company - Private,Chemical Manufacturing,Manufacturing,$500 million to $1 billion (USD),0,0,83,135,109.0,"Buckman
-", TN,76,1,0,0,0,0
+3.8","Memphis, TN",1001 to 5000 Employees,1945,Company - Private,Chemical Manufacturing,Manufacturing,$500 million to $1 billion (USD),0,0,83,135,109.0,Buckman, TN,76,1,0,0,0,0,data scientist,na,3773
 Sensory Scientist (Descriptive Analysis),$32K - $75K (Glassdoor est.),"Sensory Scientist (Descriptive Analysis) - Chicago, IL
 
 At Curion, we are embarking on a period of great transition and growth driven by increased efficiency and productivity. The Sensory Scientist sits on-site with one of our Partnership Solution clients in Chicago and is responsible for the daily management of Descriptive Analysis (DA) panel(s) including supervision of panelists, leading training of panelists, planning of studies, study design and execution, data analysis and reporting. This position serves as a key client contact for DA projects.
@@ -1547,8 +1514,7 @@ About the company:
 Curion is a leader in sensory and consumer product research and serves Fortune 500 and other blue-chip customers in the food & beverage, personal care, fine fragrance, and home & fabric care industries. In 2019 alone, the company tested 127,000 consumers in its facilities in San Francisco, Chicago, Dallas, and New York metropolitan areas. Curion's insights provide data such as: product readiness for launch, consumer purchase decision process, competitive landscape and more to its clients. The result of a merger between Q Research Solutions and Tragon Corp., Curion brings a wealth of knowledge and experience to the consumer and sensory science industry. The company pioneered many of the sensory methodologies considered industry standards today, including Quantitative Descriptive Analysis (QDA)® and Partnership Solutions (PS).
 
 Curion is committed to equal opportunity in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, disability or veteran status.",4.0,"Curion
-4.0","Chicago, IL",51 to 200 Employees,-1,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,0,0,32,75,53.5,"Curion
-", IL,-1,0,0,0,0,1
+4.0","Chicago, IL",51 to 200 Employees,-1,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,0,0,32,75,53.5,Curion, IL,-1,0,0,0,0,1,na,na,3909
 Associate Food Scientist,$35K - $59K (Glassdoor est.),"Company Description
 Stratas Foods LLC is the leading supplier of fats and oils to the Foodservice, Food Ingredients and Retail Private Label markets in North America and is a producer of quality bulk and packaged dressings, mayonnaise and sauces. Stratas Foods was formed in October 2008 as a 50/50 joint venture between ACH Food Companies (ACH) and Archer Daniels Midland (ADM).
 Manufacturing facilities are located in Dallas and Houston, TX; Decatur and Quincy, IL; Englewood, NJ; Fresno, CA; Nashville, TN; and Valdosta, GA. Corporate offices are located in Memphis, TN. We are committed to maintaining a progressive workplace by utilizing the ideas, skills and talents of all of our employees. We strive to make Stratas Foods a great place to work and are building a team capable of meeting our business goals.
@@ -1578,8 +1544,7 @@ Additional Information
 Physical: The employee is occasionally required to stand and walk. The employee must occasionally lift and/or move up to 50 pounds. The employee is required to travel (approximately 15-20% of the employee’s time).
 Sensory: .The employee is regularly required to talk or hear. The employee is required to use hand and fingers, handle, and or feel and taste or smell. Specific vision abilities required by this job include close vision.
 Mental/Reasoning: Ability to read, analyze and interpret the most complex documents. Ability to respond effectively to the most sensitive inquiries or complaints. Ability to make effective and persuasive speeches and presentations on controversial or complex topics to top management, public groups, and and/or board of directors. Ability to define problems, collects data, establish facts and draw valid conclusions",3.2,"Stratas Foods
-3.2","Cordova, TN",501 to 1000 Employees,2008,Company - Private,Food & Beverage Manufacturing,Manufacturing,$500 million to $1 billion (USD),0,0,35,59,47.0,"Stratas Foods
-", TN,13,0,0,0,0,1
+3.2","Cordova, TN",501 to 1000 Employees,2008,Company - Private,Food & Beverage Manufacturing,Manufacturing,$500 million to $1 billion (USD),0,0,35,59,47.0,Stratas Foods, TN,13,0,0,0,0,1,na,na,4358
 Sr. Scientist,$60K - $122K (Glassdoor est.),"Description:
 JOB SUMMARY
 Contribute to the overall success of GRAM’s analytical operations on behalf of our customers through contributing to an efficient Analytical Chemistry group in order to develop and transfer drugs into the GRAM facility. This role is responsible to create and oversee various studies including troubleshooting and problem solving for customer products. The individual will develop, transfer and validate analytical methods to support clinical and commercial manufacturing of sterile drug products.
@@ -1622,8 +1587,7 @@ Ability to work well independently and in a cross-functional team environment. E
 Must have proficient computer skills in Microsoft Word, Excel and Outlook, Chromatographic Data Systems, and Document Management Systems.
 Must be able to communicate in a professional manner with clients and regulatory agencies.
 Qualified candidates possess a Ph.D. in Analytical Chemistry or closely related field with 5-10 years’ experience, or M.S. in Analytical Chemistry or closely related field with 7-12 years’ experience, knowledge of GLP and cGMP, and direct work experience in a laboratory environment. Equipment qualification/validation experience not required, but preferred",3.6,"Grand River Aseptic Manufacturing
-3.6","Grand Rapids, MI",51 to 200 Employees,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Less than $1 million (USD),0,0,60,122,91.0,"Grand River Aseptic Manufacturing
-", MI,-1,0,0,0,0,1
+3.6","Grand Rapids, MI",51 to 200 Employees,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Less than $1 million (USD),0,0,60,122,91.0,Grand River Aseptic Manufacturing, MI,-1,0,0,0,0,1,na,senior,4573
 Physical Scientist,$34K - $64K (Glassdoor est.),"Job Description
 ENSCO Inc.’s National Security Solutions (NSS) Division is seeking a Physical Scientist. If you're eager to kick off your career and solve real problems in today's world, then this is the opportunity you've been looking for! Join our team of highly talented engineers and scientists while we provide innovative products and services vital to national safety and security. NSS develops cutting-edge solutions to unique and challenging technical problems, in complex operational constraints.
 Qualifications Required (Skills)
@@ -1692,8 +1656,7 @@ Division Description
 The National Security Solutions (NSS) Division focuses on solutions for the toughest problems in defense, intelligence, and homeland security missions. NSS employees leverage a multi-disciplinary team approach to these challenging scientific and technical problems in complex operational environments. Our areas of expertise include sensor development and integration; radio frequency, cyber, and position, navigation, and timing systems; counter-weapons of mass destruction capabilities including chemical and biological, geophysical phenomenology; modeling, and simulation. We use the latest technology in our work, including artificial intelligence, machine learning, data science, high performance computing, digital signal processing, and advanced hardware and software development.
 Strength in Diversity
 ENSCO, Inc. and its wholly owned U.S. subsidiaries are equal opportunity/affirmative action employers, committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, disability, or protected veteran status, or any other protected characteristic under state or local law.",3.7,"ENSCO, Inc.
-3.7","Springfield, MA",501 to 1000 Employees,1969,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),0,0,34,64,49.0,"ENSCO, Inc.
-", MA,52,1,0,0,0,1
+3.7","Springfield, MA",501 to 1000 Employees,1969,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),0,0,34,64,49.0,"ENSCO, Inc.", MA,52,1,0,0,0,1,na,na,4683
 Principal Data Scientist,$71K - $122K (Glassdoor est.),"Job Description:
 At Fidelity’s Artificial Intelligence Center of Excellence (COE), you won’t be just tinkering around the edges, you’ll be building critical solutions that will benefit our clients for years to come. We work closely with business stakeholders, collect requirements and deliver high value AI/ML solutions that drive customer and business value. Those of us who love to work with data see this as the pinnacle of opportunities that you cannot find anywhere else in the industry.
 The AI COE is seeking a Principal Data Scientist with experience in Virtual Assistants or chatbots, Natural Language Processing/text analytics, machine learning, various deep learning related technologies, predictive and prescriptive analytics.
@@ -1720,8 +1683,7 @@ At Fidelity, we are focused on making our financial expertise broadly accessible
 Fidelity Investments is an equal opportunity employer.
 
 Fidelity will reasonably accommodate applicants with disabilities who need adjustments to complete the application or interview process. Please email us at accommodations@fmr.com or 800-835-5099, prompt 2, option 2 if you would like to request an accommodation.",4.1,"Fidelity Investments
-4.1","Boston, MA",10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD),0,0,71,122,96.5,"Fidelity Investments
-", MA,75,1,0,0,0,1
+4.1","Boston, MA",10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD),0,0,71,122,96.5,Fidelity Investments, MA,75,1,0,0,0,1,data scientist,senior,3102
 Senior Data Scientist,$101K - $162K (Glassdoor est.),"Primary Location: 3003 Summit Blvd, Atlanta, GA, USA
 Division: Cox Automotive
 Job Level: Individual Contributor
@@ -1779,8 +1741,7 @@ About Cox
 We are the Cox family of businesses. We’ve been making our mark since 1898 by building and evolving world-class businesses, staying true to our values, and encouraging top talent to always look for growth and impact while building a career with us. Our primary divisions – Cox Communications and Cox Automotive – are driving a new wave of innovation, powering smart cities with powerhouse broadband communications and pioneering greener, more progressive transportation alternatives for individuals and fleet operators. We’re also expanding into new spaces like cleantech and healthcare to rev up our momentum toward building a better future for the next generation. We’re looking for the talent today who will be our leaders tomorrow. Sound intriguing? Learn more about where we are today, where we hope you’ll be going with us, and the common purpose that unites us at coxenterprises.com.
 Cox is an Equal Employment Opportunity employer - All qualified applicants/employees will receive consideration for employment without regard to that individual’s age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.
 Statement to ALL Third-Party Agencies and Similar Organizations: Cox accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.",3.7,"Cox Automotive
-3.7","Atlanta, GA",10000+ Employees,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,101,162,131.5,"Cox Automotive
-", GA,7,1,0,0,1,0
+3.7","Atlanta, GA",10000+ Employees,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,101,162,131.5,Cox Automotive, GA,7,1,0,0,1,0,data scientist,senior,6376
 Senior Data Scientist,$68K - $112K (Glassdoor est.),"Job Posting End Date: 01/30
 Unum is a company of people serving people. As one of the world's leading employee benefits providers and a Fortune 500 company, Unum's financial protection benefits help protect more than 36 million working people and their families from the financial impact of illness or injury. Unum's three distinct, but similarly focused US businesses – Unum US, Colonial Life, and Starmount Life – are each a market leader in making disability, life, accident, critical illness, dental, and vision insurance accessible in the workplace.
 Headquartered in Chattanooga, Tennessee, Unum also has significant US operations in Portland, Maine, - and over 35 field offices nationwide. Colonial Life is headquartered in Columbia, South Carolina with over 40 field offices nationwide. Starmount Life is based in Baton Rouge, Louisiana, and is the dental and vision center of excellence for Unum in the US.
@@ -1816,8 +1777,7 @@ Our company is built on helping individuals and families, and this starts with o
 Unum is an equal opportunity employer, considering all qualified applicants and employees for hiring, placement, and advancement, without regard to a person's race, color, religion, national origin, age, genetic information, military status, gender, sexual orientation, gender identity or expression, disability, or protected veteran status.
 Company:
 Unum",3.9,"Unum
-3.9","Portland, ME",5001 to 10000 Employees,1848,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),0,0,68,112,90.0,"Unum
-", ME,173,0,0,0,0,1
+3.9","Portland, ME",5001 to 10000 Employees,1848,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),0,0,68,112,90.0,Unum, ME,173,0,0,0,0,1,data scientist,senior,6881
 Epitaxy Scientist,$36K - $88K (Glassdoor est.),"Responsibilities
 Develop, optimize and characterize III-nitride LED epi structures
 Improve epi material quality and LED performance
@@ -1849,5 +1809,4 @@ Company's Facebook page:
 SETi
 Work Remotely:
 No",3.1,"Sensor Electronic Technology, Inc
-3.1","Columbia, SC",1 to 50 Employees,-1,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$5 to $10 million (USD),0,0,36,88,62.0,"Sensor Electronic Technology, Inc
-", SC,-1,0,0,0,1,1
+3.1","Columbia, SC",1 to 50 Employees,-1,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$5 to $10 million (USD),0,0,36,88,62.0,"Sensor Electronic Technology, Inc", SC,-1,0,0,0,1,1,na,na,1653
